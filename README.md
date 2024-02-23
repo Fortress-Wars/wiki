@@ -1,2 +1,1 @@
-# fortresswars.github.io
-Fortress Wars Project Website Repo
+Welcome to the Fortress Wars Wiki!

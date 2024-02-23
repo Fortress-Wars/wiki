@@ -1,0 +1,6 @@
+* [Home](/)
+* [Getting Started]()
+* [Gamemodes]()
+* [Maps]()
+* [Kits](/kits/)
+* [Changelogs](/changelogs/)
