@@ -9,7 +9,7 @@ Index for all playable kits in Fortress Wars
 
 ## Damage
 * [Aquaman](Aquaman)
-* [Bomber]()
+* [Bomber](Aquarius)
 * [Brute]()
 * [Crusher]()
 * [Default]()
