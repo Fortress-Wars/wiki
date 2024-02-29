@@ -9,8 +9,8 @@ Index for all playable kits in Fortress Wars
 
 ## Damage
 * [Aquaman](Aquaman)
-* [Bomber](Aquarius)
-* [Brute]()
+* [Bomber](Bomber)
+* [Brute](Brute)
 * [Crusher]()
 * [Default]()
 * [Fish]()
@@ -35,7 +35,7 @@ Index for all playable kits in Fortress Wars
 * [Wizard]()
 
 ## Support
-* [Aquarius]()
+* [Aquarius](Aquarius)
 * [Buff Master]()
 * [Mathematician]()
 * [Medic]()
@@ -44,7 +44,7 @@ Index for all playable kits in Fortress Wars
 * [Vitalist]()
 
 ## Tank
-* [Crusader]()
+* [Crusader](Crusader)
 * [Demolitionist]()
 * [Golem]()
 * [Knight]()

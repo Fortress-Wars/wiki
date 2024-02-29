@@ -46,6 +46,8 @@ Right click your water bucket to deploy a sphere of water. The water is stationa
 
 ![Aquaman - Water Sphere](../assets/kits/aquaman/Aquaman%20-%20Water%20Sphere.gif)
 
+<br /> 
+
 # Passive Abilities
 ***
 ## One With The Sea
