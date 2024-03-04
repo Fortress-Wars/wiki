@@ -28,7 +28,6 @@
 # Active Abilities
 ***
 ## Mana & Mana Regeneration
-
 Mana is a resource that is used to cast spells. It will regenerate over time.
 
 <!-- ![Mana & Regeneration 1]() -->
@@ -67,10 +66,3 @@ If casted it again while the effects are active, then the player will incinerate
 ![Flame Spell 2](../assets/kits/prometheus/Prometheus%20-%20Imbue%20Death.gif)
 
 <br /> 
-
-# Passive Abilities
-***
-## __Ability_2__
-_description 1_
-
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
