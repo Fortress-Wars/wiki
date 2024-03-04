@@ -1,0 +1,52 @@
+
+# Miner
+
+***
+
+#### ![miner-icon](../assets/kits/miner/miner-icon.jpg)
+
+# Overview
+***
+- **Introduced:** v1.7.0
+- **Description:** A utility kit with better mining tools.
+- **Role:** Utility
+- **Cost:** 0 Credits
+
+<br />  
+
+# Gear
+***
+- Chainmail Chestplate
+- Chainmail Leggings
+- Chainmail Boots
+- Diamond Axe
+- Diamond Pickaxe
+- Diamond Shovel
+- 7 Healing Potions
+
+<br />  
+
+# Active Abilities
+***
+## Miner's Fervor
+Right click any of your diamond tools to activate. Activating this ability will give you haste and will replace your diamond tools with netherite tools.
+
+![Miner's Fervor 1](../assets/kits/miner/Miner%20-%20Miners%20Fervor%20Blocks.gif)
+
+The netherite axe can instantly break shields.
+
+![Miner's Fervor 1](../assets/kits/miner/Miner%20-%20Miners%20Fervor%20Shield.gif)
+
+<br /> 
+
+# Passive Abilities
+***
+## Beacon Breaker
+Deal increased damage to beacons.
+
+![Beacon Breaker](../assets/kits/miner/Miner%20-%20Beacon%20Breaker.gif)
+
+## Engineer  Breaker
+Deal increased damage to engineer blocks.
+
+![Beacon Breaker](../assets/kits/miner/Miner%20-%20Engineer%20Breaker.gif)
