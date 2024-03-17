@@ -15,7 +15,7 @@
   - [Necromancer](Necromancer)
   - [None](None)
   - [Porcupine](Porcupine)
-  - [Potion Master](Potion_Master)
+  - [Potion Master](PotionMaster)
   - [Prometheus](Prometheus)
   - [Pyrotechnic](Pyrotechnic)
   - [Raven](Raven)
@@ -27,7 +27,7 @@
 
 * Support Kits
   - [Aquarius](Aquarius)
-  - [Buff Master](Buff_Master)
+  - [Buff Master](BuffMaster)
   - [Mathematician](Mathematician)
   - [Medic](Medic)
   - [Mercy](Mercy)

@@ -24,7 +24,7 @@ Index for all playable kits in Fortress Wars
 * [Necromancer](Necromancer)
 * [None](None)
 * [Porcupine](Porcupine)
-* [Potion Master](Potion_Master)
+* [Potion Master](PotionMaster)
 * [Prometheus](Prometheus)
 * [Pyrotechnic](Pytrotechnic)
 * [Raven](Raven)
@@ -36,7 +36,7 @@ Index for all playable kits in Fortress Wars
 
 ## Support
 * [Aquarius](Aquarius)
-* [Buff Master](Buff_Master)
+* [Buff Master](BuffMaster)
 * [Mathematician](Mathematician)
 * [Medic](Medic)
 * [Mercy](Mercy)
