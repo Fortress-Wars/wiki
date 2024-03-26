@@ -48,6 +48,8 @@ Bombs will disable shields if the bomb hits a player that is blocking.
 
 ![Detonator 1](../assets/kits/bomber/Bomber%20-%20Detonate%20Shield.gif)
 
+<br />  
+
 # Achievements
 ***
 
@@ -67,8 +69,17 @@ Bombs will disable shields if the bomb hits a player that is blocking.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| MAX_HEALING_POTIONS | 7 | Maximum number of healing potions the player can carry. |
+| BOMBER_BOMB_PLACE_ICD | 5 | The internal cooldown, in ticks, for placing bombs. |
+| BOMBER_BOMB_PLACE_MIN_DISTANCE | 3 | The minimum distance, in meters, for placing bomb near an already placed bomb. |
+| BOMBER_BOMB_COUNT | 3 | The maximum number of placed and held bombs a player can have a once. |
+| BOMBER_BOMB_DAMAGE | 6 | The damage that a single bomb does. |
+| BOMBER_BOMB_SELF_DAMAGE_MULTIPLIER | 0.5 | The damage multiplier of bomb damage from the player's own bombs.|
+| BOMBER_BOMB_RADIUS | 6 | The radius of the explosion effect. |
+| BOMBER_BOMB_YIELD | 2.5 | The minecraft bomb yield value. (this isn't measured in meters/blocks) |
+| BOMBER_BOMB_KNOCKBACK_MULTIPLIER | 0.75 | The multiplier of the knockback that is applied to entities after a bomb explosion. |
+| BOMBER_BOMB_REGENERATION_TICKS | 160 | The interval, in ticks, for regenerating bombs. |
+| BOMBER_BOMB_DISPENSER_NUM | 1 | The amount of bombs to receive from each engineer dispenser tick. |
+| BOMBER_DETONATE_FUSE_TICKS | 30 | The duration, in ticks, it takes for bombs to explode. This is also sets the cooldown for the detonator ability. |
+| BOMBER_SWORD_DAMAGE | 6 | The base damage of the sword. |
+| BOMBER_SWORD_SPEED | 4 | The base speed of the sword. |

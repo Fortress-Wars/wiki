@@ -53,6 +53,8 @@ The Berserker's axe will also break shields instantly while the berserk passive 
 
 ![Berserk 2](../assets/kits/brute/Brute%20-%20Berserk%20Break%20Shield.gif)
 
+<br />  
+
 # Achievements
 ***
 

@@ -47,6 +47,8 @@ Using a healing potion also heals nearby allies that are not at 100% health.
 
 ![Potion Share](../assets/kits/medic/Medic%20-%20Potion%20Share.gif)
 
+<br />  
+
 # Achievements
 ***
 

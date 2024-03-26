@@ -65,6 +65,8 @@ Spells will extinguish allies that are on fire.
 
 ![Extinguish Fire](../assets/kits/aquarius/Aquarius%20-%20Extinguish.gif)
 
+<br />  
+
 # Achievements
 ***
 

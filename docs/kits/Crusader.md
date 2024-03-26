@@ -55,6 +55,8 @@ Hitting an enemy with shield bash will affect the crusader with resistance.
 
 ![Ironclad](../assets/kits/crusader/Crusader%20-%20Ironclad.gif)
 
+<br />  
+
 # Achievements
 ***
 

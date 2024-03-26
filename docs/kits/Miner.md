@@ -51,6 +51,8 @@ Deal increased damage to engineer blocks.
 
 ![Beacon Breaker](../assets/kits/miner/Miner%20-%20Engineer%20Breaker.gif)
 
+<br />  
+
 # Achievements
 ***
 
