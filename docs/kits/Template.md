@@ -43,3 +43,27 @@ _description 2_
 _description 1_
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

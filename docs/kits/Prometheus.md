@@ -66,3 +66,31 @@ If casted it again while the effects are active, then the player will incinerate
 ![Flame Spell 2](../assets/kits/prometheus/Prometheus%20-%20Imbue%20Death.gif)
 
 <br /> 
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| That was heated. | Use the imbue spell to save yourself from burning. | 20 Credits |
+| That’s not fire. | Use the imbue spell again after already casting it. | 20 Credits |
+| Frost fire | Use your flame thrower on an enemy player that has been affected by the ice effect. | 20 Credits |
+| Deflected…but at what cost? | Deflect an enemy fireball and kill an ally. | 20 Credits |
+| Grab the ember-ella! | Get a double fireball kill. | 50 Credits|
+| Burn down the em-fire! | Get a triple fireball kill. | 50 Credits |
+| I’ll have a blazed doughnut | Get 1,000 Fire Kills. | 250 Credits |
+| In the Hall of Flame. | Get 1,000 fireball kills. | 250 Credits |
+| It’s lit! | Ignite 10,000 enemies. | 250 Credits |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

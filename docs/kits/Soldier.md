@@ -54,3 +54,28 @@ Use your grenade to launch yourself up.
 ![Grenade Jump](../assets/kits/soldier/Soldier%20-%20Grenade%20Jump.gif)
 
 <br /> 
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| Block this! | Disable an enemy shield with your grenade. | 20 Credits |
+| Maggots! | Get a double grenade kill. | 20 Credits |
+| Mutually Assured Destruction | Kill an enemy with a grenade after he kills you. | 20 Credits |
+| Oh no...your bricks...they're broken | Destroy builder bricks with soldier. | 20 Credits |
+| That's where books get you, professor! | Destroy an engineer sentry with soldier's grenade." | 20 Credits |
+| Take your lumps like a man, Private Twinkletoes. | Get 1,000 grenade kills. | 250 Credits |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

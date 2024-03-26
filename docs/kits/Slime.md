@@ -49,3 +49,28 @@ When right-clicked, all allies nearby will receive slime armor. While an ally ha
 ![Slime Armor 3](../assets/kits/slime/Slime%20-%20Slime%20Armor%203.gif)
 
 <br />
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| A touch of jello. | Have your slime give you absorption. | 20 Credits |
+| Extra protection. | Provide a kangaroo with slime armor! | 20 Credits |
+| Not just a damage sponge! | Get a slime kill. | 20 Credits |
+| Slimy slime | Provide slime armor to your slimes. | 20 Credits |
+| Blessed Rebuttal | Mitigate 10,000 damage from allies. | 250 Credits |
+| Optimus Slime | Get 1,000 slime kills. | 250 Credits |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

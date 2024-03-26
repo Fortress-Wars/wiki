@@ -46,3 +46,24 @@ The healing stone will heal the user less efficiently.
 Using a healing potion also heals nearby allies that are not at 100% health.
 
 ![Potion Share](../assets/kits/medic/Medic%20-%20Potion%20Share.gif)
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| Get zem. Raus, Raus! | Heal 4 allies at once. | 20 Credits |
+| Ze healing is not as revarding as ze hurting! | Do a total of 100,000 healing as medic. | 250 Credits |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

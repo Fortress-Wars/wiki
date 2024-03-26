@@ -54,3 +54,26 @@ Right click and hold to perform a shield bash. This will launch the crusader for
 Hitting an enemy with shield bash will affect the crusader with resistance.
 
 ![Ironclad](../assets/kits/crusader/Crusader%20-%20Ironclad.gif)
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| Get out of my way! | Hit 4 enemies with one shield bash! | 20 Credits |
+| Iron Shield | Get 1,000 shield bash kills. | 20 Credits |
+| Stronk Shield! | Get a double shield bash kill. | 100 Credits |
+| The Flattener! | Get a triple shield bash kill. | 250 Credits |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

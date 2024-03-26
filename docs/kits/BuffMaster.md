@@ -45,3 +45,25 @@ Right click to cycle between buffs forwards. Left click to cycle between buffs b
 ![Resistance](../assets/kits/buff_master/buff-master-resistance.jpg)
 
 <br /> 
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| Family Practice | Buff 4 teammates with one activation. | 20 Credits |
+| Stronk Creeper | Buff a creeper with buff master. | 20 Credits |
+| The True Buff Master | Buff 1,000 teammates. | 100 Credits |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

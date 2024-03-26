@@ -50,3 +50,26 @@ Deal increased damage to beacons.
 Deal increased damage to engineer blocks.
 
 ![Beacon Breaker](../assets/kits/miner/Miner%20-%20Engineer%20Breaker.gif)
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| Efficiently Mining | As miner, mine over 100 blocks in one life. | 20 Credits |
+| Efficiently Scrapping | Destroy an engineer's dispenser, sentry, and teleporter pads in one life. | 20 Credits|
+| Shield Smasher | Break an enemy shield while using Miner's fervor. | 20 Credits |
+| Mole Rat | Break 100,000 blocks as miner. | 250 Credits |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

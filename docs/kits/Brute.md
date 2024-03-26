@@ -52,3 +52,26 @@ When the player's health drops to or below 50%, gain speed for a certain duratio
 The Berserker's axe will also break shields instantly while the berserk passive is active.
 
 ![Berserk 2](../assets/kits/brute/Brute%20-%20Berserk%20Break%20Shield.gif)
+
+# Achievements
+***
+
+| Achievement | Description | Reward |
+| ----------- | ----------- | ------ |
+| A clean cut | Get a double axe swirl kill. | 50 Credits |
+| Skull splitter | Get 2 final blows with in one berserk. | 50 Credits |
+| Passive Aggressive Negotiator | Activate the berserk passive 1,000 times. | 100 Credits|
+| Head Collector | Get 1,000 axe swirl kills. | 250 Credits |
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |

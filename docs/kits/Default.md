@@ -38,3 +38,21 @@ Use your bow to deal damage to enemies from a distance.
 ![Melee](../assets/kits/default/Default%20-%20Bow.gif)
 
 <br /> 
+
+# Achievements
+***
+
+None
+
+<br />  
+
+# Kit Data
+***
+
+| Property | Value | Description |
+|----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
