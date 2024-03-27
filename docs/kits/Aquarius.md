@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A support kit that uses mana to control the water element.
 - **Role:** Support
-- **Cost:** 500 Credits
+- **How to Unlock:** Purchase for 500 Credits
 
 <br />  
 

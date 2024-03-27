@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A utility kit with better mining tools.
 - **Role:** Utility
-- **Cost:** 0 Credits
+- **How to Unlock:** Unlocked by Default
 
 <br />  
 

@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A kit with a throwable grenade and standard armor and weapons.
 - **Role:** Damage
-- **Cost:** 0 Credits
+- **How to Unlock:** Unlocked by Default
 
 <br />  
 
