@@ -10,7 +10,7 @@
 - **Introduced:** v1.8.0
 - **Description:** A damage kit that summons anvils to crush your enemies.
 - **Role:** Damage
-- **Cost:** 500 Credits
+- **How to Unlock:** Purcahse for 500 Credits
 
 <br />  
 

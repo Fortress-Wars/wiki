@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A support kit that heals allies by using a healing stone.
 - **Role:** Support
-- **Cost:** 0 Credits
+- **How to Unlock:** Unlocked by Default
 
 <br />  
 

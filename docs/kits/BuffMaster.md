@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A support kit that gives potion effects to teammates. Selectable buffs include Regeneration, Absorption, Speed, and Resistance.
 - **Role:** Support
-- **Cost:** 500 Credits
+- **How to Unlock:** Purcahse for 500 Credits
 
 <br />  
 
@@ -62,8 +62,20 @@ Right click to cycle between buffs forwards. Left click to cycle between buffs b
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| MAX_HEALING_POTIONS | 7  | Maximum number of healing potions the player can carry. |
+| BUFF_MASTER_BUFF_BASE_COOLDOWN | 140 | The base cooldown, in ticks, of the Buff ability. |
+| BUFF_MASTER_BUFF_MAX_COOLDOWN | 300 | The max cooldown, in ticks, of the Buff ability. |
+| BUFF_MASTER_BUFF_PER_MOB_COOLDOWN | 20 | The cooldown per mob affected, in ticks, added to the base cooldown. |
+| BUFF_MASTER_BUFF_PER_PLAYER_COOLDOWN | 40 | The cooldown per player affected, in ticks, added to the base cooldown. |
+| BUFF_MASTER_BUFF_RADIUS | 5 | The radius of the Buff ability. |
+| BUFF_MASTER_BUFF_SWITCH_ICD | 2 | The cooldown, in ticks, for switching effects. |
+| BUFF_MASTER_REGENERATION_DURATION | 160 | The duration of the regeneration effect. |
+| BUFF_MASTER_REGENERATION_LEVEL | 1 | The level of the regeneration effect. |
+| BUFF_MASTER_ABSORPTION_DURATION | 160 | The duration of the absorption effect. |
+| BUFF_MASTER_ABSORPTION_LEVEL | 1 | The level of the absorption effect.  |
+| BUFF_MASTER_SPEED_DURATION | 320 | The duration of the speed effect. |
+| BUFF_MASTER_SPEED_LEVEL | 1 | The level of the speed effect. |
+| BUFF_MASTER_RESISTANCE_DURATION | 160 | The duration of the resistance effect. |
+| BUFF_MASTER_RESISTANCE_LEVEL | 0 | The level of the resistance effect. |
+| BUFF_MASTER_SWORD_DAMAGE | 5 | The base melee damage of the sword. |
+| BUFF_MASTER_SWORD_SPEED | 4 | The base melee speed of the sword. |

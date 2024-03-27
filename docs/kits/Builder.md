@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A utility kit that can place bricks and ladders around the map.
 - **Role:** Utility
-- **Cost:** 0 Credits
+- **How to Unlock:** Unlocked by Default
 
 <br />  
 
@@ -72,6 +72,12 @@ Receive bricks and ladders from engineer dispensers.
 
 | Property | Value | Description |
 |----------|-------|-------------|
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 | | | |
 | | | |
 | | | |

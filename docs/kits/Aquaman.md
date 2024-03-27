@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A melee and ranged damage kit that excels in water environments.
 - **Role:** Damage
-- **Cost:** 500 Credits
+- **How to Unlock:** Purcahse for 500 Credits
 
 <br />  
 
