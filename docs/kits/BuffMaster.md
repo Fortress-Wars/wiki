@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A support kit that gives potion effects to teammates. Selectable buffs include Regeneration, Absorption, Speed, and Resistance.
 - **Role:** Support
-- **How to Unlock:** Purcahse for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits
 
 <br />  
 

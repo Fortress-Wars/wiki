@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** An aggressive kit with an axe.
 - **Role:** Damage
-- **How to Unlock:** Purcahse for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits
 
 <br />  
 

@@ -10,7 +10,7 @@
 - **Introduced:** ___
 - **Description:** ___
 - **Role:** ___
-- **How to Unlock:** Purcahse for ___
+- **How to Unlock:** Purchase for ___
 
 <br />  
 
