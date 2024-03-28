@@ -68,32 +68,32 @@ When a fish is summoned, it will be one of 6 fish: Cod, Cooked Cod, Salmon, Cook
 ### Cod
 Deals 1 damage to the enemy.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Cod](../assets/kits/fish/Fish%20-%20Cod.gif)
 
 ### Cooked Cod
 Deals 3 damage to the enemy.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Cooked Cod](../assets/kits/fish/Fish%20-%20Cooked%20Cod.gif)
 
 ### Salmon
 Gives the blindness effect for 20 ticks to the enemy.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Salmon](../assets/kits/fish/Fish%20-%20Salmon.gif)
 
 ### Cooked Salmon
 Gives the blindness effect for 30 ticks to the enemy.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Cooked Salmon](../assets/kits/fish/Fish%20-%20Cooked%20Salmon.gif)
 
 ### Tropical Fish
 Heals 5 HP to the player.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Tropcial Fish](../assets/kits/fish/Fish%20-%20Tropical%20Fish.gif)
 
 ### Pufferfish
 Deals 100 damage to the enemy. (OP Fish Mode)
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Pufferfish](../assets/kits/fish/Fish%20-%20Pufferfish.gif)
 
 ## Suffocate
 Take damage while out of water. (OP Fish Mode)
