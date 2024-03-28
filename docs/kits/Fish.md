@@ -68,32 +68,32 @@ When a fish is summoned, it will be one of 6 fish: Cod, Cooked Cod, Salmon, Cook
 ### Cod
 Deal 1 Damage.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Cod](../assets/kits/fish/Fish%20-%20Cod.gif)
 
 ### Cooked Cod
 Deal 3 Damage.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Cooked Cod](../assets/kits/fish/Fish%20-%20Cooked%20Cod.gif)
 
 ### Salmon
 Give Blindness effect for 20 ticks.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Salmon](../assets/kits/fish/Fish%20-%20Salmon.gif)
 
 ### Cooked Salmon
 Give Blindness effect for 30 ticks.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Cooked Salmon](../assets/kits/fish/Fish%20-%20Cooked%20Salmon.gif)
 
 ### Tropical Fish
 Heal 5 HP.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Tropcial Fish](../assets/kits/fish/Fish%20-%20Tropical%20Fish.gif)
 
 ### Pufferfish
 Deal 100 Damage. (OP Fish Mode)
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Pufferfish](../assets/kits/fish/Fish%20-%20Pufferfish.gif)
 
 ## Suffocate
 Take damage while out of water. (OP Fish Mode)
