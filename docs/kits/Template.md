@@ -24,25 +24,40 @@
 
 <br />  
 
-# Active Abilities
+## Active Abilities
 ***
-## __Ability_1__
-_description 1_
+<!-- tabs:start -->
+#### **Ability_1**
+## Ability_1
+_description_1_
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
 
-_description 2_
+#### **Ability_2**
+## Ability_2
+_description_2_
 
 ![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
 
+<!-- tabs:end -->
 <br /> 
 
-# Passive Abilities
+## Passive Abilities
 ***
-## __Ability_2__
-_description 1_
+<!-- tabs:start -->
+#### **Ability_1**
+## Ability_1
+_description_1_
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+
+#### **Ability_2**
+## Ability_2
+_description_2_
+
+![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
+
+<!-- tabs:end -->
 
 # Achievements
 ***

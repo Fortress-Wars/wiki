@@ -25,8 +25,10 @@
 
 <br />  
 
-# Active Abilities
+## Active Abilities
 ***
+<!-- tabs:start -->
+#### **Trident**
 ## Trident
 Use your trident to deal melee damage or use it as a ranged weapon.
 
@@ -36,30 +38,36 @@ The trident does more damage if the target is hit from a far distance.
 
 ![Aquaman - Trident Throw Far](../assets/kits/aquaman/Aquaman%20-%20Trident%20Throw%20Far.gif)
 
+#### **Loyalty**
 ## Loyalty
 Left click your fist after your trident lands to retrieve it quicker. You can also pick up the trident by walking over it. The trident will also automatically return after a certain amount of time.
 
 ![Aquaman - Loyalty](../assets/kits/aquaman/Aquaman%20-%20Loyalty.gif)
 
+#### **Water Sphere**
 ## Water Sphere
 Right click your water bucket to deploy a sphere of water. The water is stationary and will automatically disappear after a certain amount of time.
 
 ![Aquaman - Water Sphere](../assets/kits/aquaman/Aquaman%20-%20Water%20Sphere.gif)
 
-<br /> 
+<!-- tabs:end -->
 
-# Passive Abilities
+## Passive Abilities
 ***
+<!-- tabs:start -->
+#### **One With The Sea**
 ## One With The Sea
 Gain water breathing and regeneration while in water.
 
 ![Aquaman - One with the Sea](../assets/kits/aquaman/Aquaman%20-%20One%20with%20the%20Sea.gif)
 
+#### **Water Synergy**
 ## Water Synergy
 While in water, deal extra damage when throwing your trident.
 
 ![Aquaman - Water Synergy](../assets/kits/aquaman/Aquaman%20-%20Water%20Synergy.gif)
 
+<!-- tabs:end -->
 <br />  
 
 # Achievements

@@ -83,4 +83,4 @@ Additionally, dealing melee damage with the axe will instantly break shields.
 | BRUTE_AXE_SWIRL_DAMAGE | 4 | The damage of the Axe Swirl ability. |
 | BRUTE_AXE_SWIRL_RADIUS | 4 | The radius of the Axe Swirl ability. |
 | BRUTE_AXE_SWIRL_DELAY | 5 | The delay, in ticks, between activating the Axe Swirl ability and the ability dealing damage. |
-| BRUTE_AXE_SWIRL_IGNORE_I_FRAMES | 1 | Determines if the Axe Swirl ability should ignore invulnerability frames |
+| BRUTE_AXE_SWIRL_IGNORE_I_FRAMES | 1 | Determines if the Axe Swirl ability should ignore invulnerability frames. (1 = true; 0 = false) |
