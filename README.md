@@ -7,3 +7,9 @@ run `npm i docsify-cli -g`
 
 ## Run Locally
 run `docsify serve  ./docs`
+
+## Asset Creation
+- Kit Icons: 48x46 jpg
+- Watermark Settings (Streamlabs)
+    - Position: 1782x958
+    - Size: 82x82

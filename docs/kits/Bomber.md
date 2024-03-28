@@ -40,13 +40,13 @@ Right click to detonate all of the player's bombs dealing damage to enemies and 
 
 Bombs destroy enemy builder bricks, enemy builder ladders, cobwebs and jumper translocators and damage engineer blocks.
 
-![Detonator 1](../assets/kits/bomber/Bomber%20-%20Detonate%20Bricks.gif)
+![Detonator 2](../assets/kits/bomber/Bomber%20-%20Detonate%20Bricks.gif)
 
-![Detonator 1](../assets/kits/bomber/Bomber%20-%20Detonate%20Engineer%20Blocks.gif)
+![Detonator 3](../assets/kits/bomber/Bomber%20-%20Detonate%20Engineer%20Blocks.gif)
 
 Bombs will disable shields if the bomb hits a player that is blocking.
 
-![Detonator 1](../assets/kits/bomber/Bomber%20-%20Detonate%20Shield.gif)
+![Detonator 4](../assets/kits/bomber/Bomber%20-%20Detonate%20Shield.gif)
 
 <br />  
 

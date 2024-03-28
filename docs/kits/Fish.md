@@ -63,35 +63,35 @@ Turn into an overpowered fish! OP fish mode enables the following abilities: Suf
 ***
 
 ## Bountiful Fish
-When a fish is summoned, it will be one of 6 fish: Cod, Cooked Cod, Salmon, Cooked Salmon, Tropical Fish, or Pufferfish. Each fish has a different effect and chance of spawning.
+When a fish is summoned, it will be one of 6 fish: Cod, Cooked Cod, Salmon, Cooked Salmon, Tropical Fish, or Pufferfish. Each fish has a different effect and differnt chance of spawning.
 
 ### Cod
-Deal 1 Damage.
+Deals 1 damage to the enemy.
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
 
 ### Cooked Cod
-Deal 3 Damage.
+Deals 3 damage to the enemy.
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
 
 ### Salmon
-Give Blindness effect for 20 ticks.
+Gives the blindness effect for 20 ticks to the enemy.
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
 
 ### Cooked Salmon
-Give Blindness effect for 30 ticks.
+Gives the blindness effect for 30 ticks to the enemy.
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
 
 ### Tropical Fish
-Heal 5 HP.
+Heals 5 HP to the player.
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
 
 ### Pufferfish
-Deal 100 Damage. (OP Fish Mode)
+Deals 100 damage to the enemy. (OP Fish Mode)
 
 ![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
 
