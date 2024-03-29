@@ -22,12 +22,15 @@
 - Stone Sword
 - Shield
 - Shield Bash
-- 5 Healing Potions
+- {{ kits.crusader.data.MAX_HEALING_POTIONS }} Healing Potions
 
 <br />  
 
-# Active Abilities
+## Abilities
 ***
+### Actives
+<!-- tabs:start -->
+#### **Shield**
 ## Shield
 Use your shield to block damage.
 
@@ -35,26 +38,29 @@ Use your shield to block damage.
 
 ![Shield 2](../assets/kits/crusader/Crusader%20-%20Shield%20Block%202.gif)
 
-Shield will regenerate automatically if damaged and it is not in use
+The shield will automatically regenerate HP if it is damaged and not being used.
 
 ![Shield 3](../assets/kits/crusader/Crusader%20-%20Shield%20Repair.gif)
 
+#### **Shield Bash**
 ## Shield Bash
-Right click and hold to perform a shield bash. This will launch the crusader forward. Hitting enemies will deal damage and knockback.
+Right click and hold to perform a shield bash. This will launch the player forward into a shield bashing state. While in this state, colliding into enemies deals deal damage and knockback. If the player stops blocking or they slows down too much, then they will exit the shield bashing state.
 
 ![Shield Bash 1](../assets/kits/crusader/Crusader%20-%20Shield%20Bash%20Mobility.gif)
 
 ![Shield Bash 2](../assets/kits/crusader/Crusader%20-%20Shield%20Bash%20Hit.gif)
 
-<br /> 
+<!-- tabs:end -->
 
-# Passive Abilities
-***
+### Passives
+<!-- tabs:start -->
+#### **Ironclad**
 ## Ironclad
-Hitting an enemy with shield bash will affect the crusader with resistance.
+Hitting an enemy with shield bash will trigger Ironclad. Ironclad will provide damage resistance to the player.
 
 ![Ironclad](../assets/kits/crusader/Crusader%20-%20Ironclad.gif)
 
+<!-- tabs:end -->
 <br />  
 
 # Achievements
@@ -74,8 +80,15 @@ Hitting an enemy with shield bash will affect the crusader with resistance.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| MAX_HEALING_POTIONS | `{{ kits.crusader.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| CRUSADER_SWORD_DAMAGE | `{{ kits.crusader.data.CRUSADER_SWORD_DAMAGE }}` | The base damage of the sword. |
+| CRUSADER_SWORD_SPEED | `{{ kits.crusader.data.CRUSADER_SWORD_SPEED }}` | The base speed of the sword. |
+| CRUSADER_SHIELD_BASH_DAMAGE | `{{ kits.crusader.data.CRUSADER_SHIELD_BASH_DAMAGE }}` | The base damage of a shield bash collision. |
+| CRUSADER_SHIELD_BASH_KNOCKBACK | `{{ kits.crusader.data.CRUSADER_SHIELD_BASH_KNOCKBACK }}` | The knockback multiplier of a shield bash collision. |
+| CRUSADER_SHIELD_BASH_COOLDOWN | `{{ kits.crusader.data.CRUSADER_SHIELD_BASH_COOLDOWN }}` | The cooldown, in ticks, of the Shield Bash ability. |
+| CRUSADER_SHIELD_BASH_IMPACT_RADIUS | `{{ kits.crusader.data.CRUSADER_SHIELD_BASH_IMPACT_RADIUS }}` | The collision radius of the Shield Bash ability. |
+| CRUSADER_SHIELD_BASH_VELOCITY_MULTIPLIER | `{{ kits.crusader.data.CRUSADER_SHIELD_BASH_VELOCITY_MULTIPLIER }}` | The launch velocity multiplier of the Shield Bash ability.  |
+| CRUSADER_SHIELD_BASH_IMPACT_ICD | `{{ kits.crusader.data.CRUSADER_SHIELD_BASH_IMPACT_ICD }}` | The cooldown, in ticks, of an enemy being able to be hit by Shield Bash.  |
+| CRUSADER_SHIELD_BASH_VELOCITY_THRESHOLD | `{{ kits.crusader.data.CRUSADER_SHIELD_BASH_VELOCITY_THRESHOLD }}` | The velocity threshold used to determine if a player is moving too slow during a Shield Bash. |
+| CRUSADER_IRONCLAD_DURATION | `{{ kits.crusader.data.CRUSADER_IRONCLAD_DURATION }}` | The duration, in ticks, of the Ironclad ability. |
+| CRUSADER_IRONCLAD_RESISTANCE_LEVEL | `{{ kits.crusader.data.CRUSADER_IRONCLAD_RESISTANCE_LEVEL }}` | The level of the resistance effect provided by the Ironclad Ability. |

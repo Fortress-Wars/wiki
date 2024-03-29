@@ -84,5 +84,5 @@ Anvils will damage engineer blocks.
 | CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER | `{{ kits.crusher.data.CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER }}` | The self damage multipler of an anvil when hitting the player. |
 | CRUSHER_ANVIL_IGNORE_DAMAGE_TICKS | `{{ kits.crusher.data.CRUSHER_ANVIL_IGNORE_DAMAGE_TICKS }}` | Determines if the anvil should ignore invulnerability frames. |
 | CRUSHER_ANVIL_TARGET_ENEMIES | `{{ kits.crusher.data.CRUSHER_ANVIL_TARGET_ENEMIES }}` | Determines if the Crusher ability should target enemies. |
-| CRUSHER_SWORD_DAMAGE | `{{ kits.crusher.data.CRUSHER_SWORD_DAMAGE }}` | The base damage of the crusher sword. |
-| CRUSHER_SWORD_SPEED | `{{ kits.crusher.data.CRUSHER_SWORD_SPEED }}` | The base speed of the crusher sword. |
+| CRUSHER_SWORD_DAMAGE | `{{ kits.crusher.data.CRUSHER_SWORD_DAMAGE }}` | The base damage of the sword. |
+| CRUSHER_SWORD_SPEED | `{{ kits.crusher.data.CRUSHER_SWORD_SPEED }}` | The base speed of the sword. |
