@@ -49,7 +49,7 @@ Axe swirl will disable shields and damage enemy engineer blocks.
 <!-- tabs:start -->
 #### **Berserk**
 ## Berserk
-When the player's health drops to or below {{ kits.brute.data.BRUTE_BERSERK_ACTIVATION_THRESHOLD }} HP, they will receive a berserk stack and activate berserk. While berserk is active, the player will gain speed that scales with the number of berserk stacks. The player can have up to {{ kits.brute.data.BRUTE_BERSERK_MAX_STACKS }} berserk stacks.
+When the player's health drops to or below `{{ kits.brute.data.BRUTE_BERSERK_ACTIVATION_THRESHOLD }}` HP, they will receive a berserk stack and activate berserk. While berserk is active, the player will gain speed that scales with the number of berserk stacks. The player can have up to `{{ kits.brute.data.BRUTE_BERSERK_MAX_STACKS }}` berserk stacks.
 
 ![Berserk 1](../assets/kits/brute/Brute%20-%20Berserk%20Speed.gif)
 
@@ -77,15 +77,15 @@ Additionally, dealing melee damage with the axe will instantly break shields.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | {{ kits.brute.data.MAX_HEALING_POTIONS }} | Maximum number of healing potions the player can carry. |
-| BRUTE_AXE_MELEE_DAMAGE | {{ kits.brute.data.BRUTE_AXE_MELEE_DAMAGE }} | The base melee damage of the axe. |
-| BRUTE_AXE_MELEE_SPEED | {{ kits.brute.data.BRUTE_AXE_MELEE_SPEED }} | The base melee speed of the axe. |
-| BRUTE_BERSERK_ACTIVATION_THRESHOLD | {{ kits.brute.data.BRUTE_BERSERK_ACTIVATION_THRESHOLD }} | The threshold at which the Berserk ability will trigger. (1hp = 0.5 hearts) |
-| BRUTE_BERSERK_COOLDOWN | {{ kits.brute.data.BRUTE_BERSERK_COOLDOWN }} | The cooldown, in ticks, of the Berserk ability. |
-| BRUTE_BERSERK_DURATION | {{ kits.brute.data.BRUTE_BERSERK_DURATION }} | The duration, in ticks, of the Berserk ability. |
-| BRUTE_BERSERK_MAX_STACKS | {{ kits.brute.data.BRUTE_BERSERK_MAX_STACKS }} | The maximum number of Berserk ability stacks. |
-| BRUTE_AXE_SWIRL_COOLDOWN | {{ kits.brute.data.BRUTE_AXE_SWIRL_COOLDOWN }} | The cooldown, in ticks, of the Axe Swirl ability. |
-| BRUTE_AXE_SWIRL_DAMAGE | {{ kits.brute.data.BRUTE_AXE_SWIRL_DAMAGE }} | The damage of the Axe Swirl ability. |
-| BRUTE_AXE_SWIRL_RADIUS | {{ kits.brute.data.BRUTE_AXE_SWIRL_RADIUS }} | The radius of the Axe Swirl ability. |
-| BRUTE_AXE_SWIRL_DELAY | {{ kits.brute.data.BRUTE_AXE_SWIRL_DELAY }} | The delay, in ticks, between activating the Axe Swirl ability and the ability dealing damage. |
-| BRUTE_AXE_SWIRL_IGNORE_I_FRAMES | {{ kits.brute.data.BRUTE_AXE_SWIRL_IGNORE_I_FRAMES }} | Determines if the Axe Swirl ability should ignore invulnerability frames. |
+| MAX_HEALING_POTIONS | `{{ kits.brute.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| BRUTE_AXE_MELEE_DAMAGE | `{{ kits.brute.data.BRUTE_AXE_MELEE_DAMAGE }}` | The base melee damage of the axe. |
+| BRUTE_AXE_MELEE_SPEED | `{{ kits.brute.data.BRUTE_AXE_MELEE_SPEED }}` | The base melee speed of the axe. |
+| BRUTE_BERSERK_ACTIVATION_THRESHOLD | `{{ kits.brute.data.BRUTE_BERSERK_ACTIVATION_THRESHOLD }}` | The threshold at which the Berserk ability will trigger. (1hp = 0.5 hearts) |
+| BRUTE_BERSERK_COOLDOWN | `{{ kits.brute.data.BRUTE_BERSERK_COOLDOWN }}` | The cooldown, in ticks, of the Berserk ability. |
+| BRUTE_BERSERK_DURATION | `{{ kits.brute.data.BRUTE_BERSERK_DURATION }}` | The duration, in ticks, of the Berserk ability. |
+| BRUTE_BERSERK_MAX_STACKS | `{{ kits.brute.data.BRUTE_BERSERK_MAX_STACKS }}` | The maximum number of Berserk ability stacks. |
+| BRUTE_AXE_SWIRL_COOLDOWN | `{{ kits.brute.data.BRUTE_AXE_SWIRL_COOLDOWN }}` | The cooldown, in ticks, of the Axe Swirl ability. |
+| BRUTE_AXE_SWIRL_DAMAGE | `{{ kits.brute.data.BRUTE_AXE_SWIRL_DAMAGE }}` | The damage of the Axe Swirl ability. |
+| BRUTE_AXE_SWIRL_RADIUS | `{{ kits.brute.data.BRUTE_AXE_SWIRL_RADIUS }}` | The radius of the Axe Swirl ability. |
+| BRUTE_AXE_SWIRL_DELAY | `{{ kits.brute.data.BRUTE_AXE_SWIRL_DELAY }}` | The delay, in ticks, between activating the Axe Swirl ability and the ability dealing damage. |
+| BRUTE_AXE_SWIRL_IGNORE_I_FRAMES | `{{ kits.brute.data.BRUTE_AXE_SWIRL_IGNORE_I_FRAMES }}` | Determines if the Axe Swirl ability should ignore invulnerability frames. |

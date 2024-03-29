@@ -76,18 +76,18 @@ _description_2_
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | {{ kits._kit_.data.MAX_HEALING_POTIONS }} | Maximum number of healing potions the player can carry. |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
-| | {{ kits._kit_.data. }} | |
+| MAX_HEALING_POTIONS | `{{ kits._kit_.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
+| | `{{ kits._kit_.data. }}` | |
