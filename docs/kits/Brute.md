@@ -25,8 +25,9 @@
 
 <br />  
 
-## Active Abilities
+## Abilities
 ***
+### Actives
 <!-- tabs:start -->
 #### **Axe Swirl**
 ## Axe Swirl
@@ -43,10 +44,8 @@ Axe swirl will disable shields and damage enemy engineer blocks.
 ![Axe Swirl 4](../assets/kits/brute/Brute%20-%20Axe%20Swirl%20Break%20Engineer%20Blocks.gif)
 
 <!-- tabs:end -->
-<br /> 
 
-## Passive Abilities
-***
+### Passives
 <!-- tabs:start -->
 #### **Berserk**
 ## Berserk

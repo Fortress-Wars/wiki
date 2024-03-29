@@ -24,8 +24,9 @@
 
 <br />  
 
-## Active Abilities
+## Abilities
 ***
+### Actives
 <!-- tabs:start -->
 #### **Ability_1**
 ## Ability_1
@@ -40,10 +41,8 @@ _description_2_
 ![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
 
 <!-- tabs:end -->
-<br /> 
 
-## Passive Abilities
-***
+### Passives
 <!-- tabs:start -->
 #### **Ability_1**
 ## Ability_1

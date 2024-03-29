@@ -25,24 +25,32 @@
 
 <br />  
 
-# Active Abilities
+## Abilities
 ***
-## Bricks & Ladders
+### Actives
+<!-- tabs:start -->
+#### **Bricks**
+## Bricks
 Place bricks in most places around the map.
 
-![Bricks & Ladders 1](../assets/kits/builder/Builder%20-%20Place%201.gif)
+![Bricks](../assets/kits/builder/Builder%20-%20Place%201.gif)
 
-![Bricks & Ladders 2](../assets/kits/builder/Builder%20-%20Place%202.gif)
-
+#### **Brick Melee**
 ## Brick Melee
-Use your bricks to melee and deal massive knockback. Damaging a player with your bricks will consume them.
+Use your bricks to melee and deal massive knockback. Damaging an enemy with your bricks will consume 1 brick.
 
 ![Brick Melee](../assets/kits/builder/Builder%20-%20Melee.gif)
 
-<br /> 
+#### **Ladders**
+## Ladders
+Place ladders in most places around the map.
+![Ladders](../assets/kits/builder/Builder%20-%20Place%202.gif)
 
-# Passive Abilities
-***
+<!-- tabs:end -->
+
+### Passives
+<!-- tabs:start -->
+#### **Builders Toolbox**
 ## Builders Toolbox
 Regenerate 2 bricks every 5 seconds and 1 ladder every 10 seconds.
 
@@ -52,6 +60,7 @@ Receive bricks and ladders from engineer dispensers.
 
 ![Builders Toolbox 2](../assets/kits/builder/Builder%20-%20Dispenser.gif)
 
+<!-- tabs:end -->
 <br />  
 
 # Achievements

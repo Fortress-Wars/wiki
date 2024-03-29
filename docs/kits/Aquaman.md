@@ -25,8 +25,9 @@
 
 <br />  
 
-## Active Abilities
+## Abilities
 ***
+### Actives
 <!-- tabs:start -->
 #### **Trident**
 ## Trident
@@ -52,8 +53,7 @@ Right click your water bucket to deploy a sphere of water. The water is stationa
 
 <!-- tabs:end -->
 
-## Passive Abilities
-***
+### Passives
 <!-- tabs:start -->
 #### **One With The Sea**
 ## One With The Sea

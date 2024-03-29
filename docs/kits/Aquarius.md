@@ -26,8 +26,9 @@
 
 <br />  
 
-## Active Abilities
+## Abilities
 ***
+### Actives
 <!-- tabs:start -->
 #### **Water Beam**
 ## Water Beam
@@ -55,8 +56,7 @@ Right click to cast. Casting will summon a water bomb projectile. When it hits a
 
 <!-- tabs:end -->
 
-## Passive Abilities
-***
+### Passives
 <!-- tabs:start -->
 #### **Mana & Mana Regeneration**
 ## Mana & Mana Regeneration
