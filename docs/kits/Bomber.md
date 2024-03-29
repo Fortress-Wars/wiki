@@ -20,19 +20,22 @@
 - Chainmail Leggings
 - Chainmail Boots
 - Iron Sword
-- 3 Bombs
+- {{ kits.bomber.data.BOMBER_BOMB_COUNT }} Bombs
 - Detonator
-- 7 Healing Potions
+- {{ kits.bomber.data.MAX_HEALING_POTIONS }} Healing Potions
 
 <br />  
 
-# Active Abilities
+## Active Abilities
 ***
+<!-- tabs:start -->
+#### **Bombs**
 ## Bombs
-Bombs are used to deal large area damage. Bombs can't be placed too close to others and only 3 can be placed at any one time. If there are 3 bombs set and another bomb is placed, then the oldest will be destroyed.
+Bombs are used to deal large area damage. Bombs can't be placed too close to others and only **{{ kits.bomber.data.BOMBER_BOMB_COUNT }}** can be placed at any one time. If there are **{{ kits.bomber.data.BOMBER_BOMB_COUNT }}** bombs set and another bomb is placed, then the oldest will be destroyed.
 
 ![Bombs](../assets/kits/bomber/Bomber%20-%20Bombs.gif)
 
+#### **Detonator**
 ## Detonator
 Right click to detonate all of the player's bombs dealing damage to enemies and self. Bombs will ignore invulnerability frames. The player can also detonate bombs while respawning.
 
@@ -47,6 +50,8 @@ Bombs destroy enemy builder bricks, enemy builder ladders, cobwebs and jumper tr
 Bombs will disable shields if the bomb hits a player that is blocking.
 
 ![Detonator 4](../assets/kits/bomber/Bomber%20-%20Detonate%20Shield.gif)
+
+<!-- tabs:end -->
 
 <br />  
 
@@ -69,17 +74,17 @@ Bombs will disable shields if the bomb hits a player that is blocking.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | 7 | Maximum number of healing potions the player can carry. |
-| BOMBER_BOMB_PLACE_ICD | 5 | The internal cooldown, in ticks, for placing bombs. |
-| BOMBER_BOMB_PLACE_MIN_DISTANCE | 3 | The minimum distance, in meters, for placing bomb near an already placed bomb. |
-| BOMBER_BOMB_COUNT | 3 | The maximum number of placed and held bombs a player can have a once. |
-| BOMBER_BOMB_DAMAGE | 6 | The damage that a single bomb does. |
-| BOMBER_BOMB_SELF_DAMAGE_MULTIPLIER | 0.5 | The damage multiplier of bomb damage from the player's own bombs.|
-| BOMBER_BOMB_RADIUS | 6 | The radius of the explosion effect. |
-| BOMBER_BOMB_YIELD | 2.5 | The minecraft bomb yield value. (this isn't measured in meters/blocks) |
-| BOMBER_BOMB_KNOCKBACK_MULTIPLIER | 0.75 | The multiplier of the knockback that is applied to entities after a bomb explosion. |
-| BOMBER_BOMB_REGENERATION_TICKS | 160 | The interval, in ticks, for regenerating bombs. |
-| BOMBER_BOMB_DISPENSER_NUM | 1 | The amount of bombs to receive from each engineer dispenser tick. |
-| BOMBER_DETONATE_FUSE_TICKS | 30 | The duration, in ticks, it takes for bombs to explode. This is also sets the cooldown for the detonator ability. |
-| BOMBER_SWORD_DAMAGE | 6 | The base damage of the sword. |
-| BOMBER_SWORD_SPEED | 4 | The base speed of the sword. |
+| MAX_HEALING_POTIONS | {{ kits.bomber.data.MAX_HEALING_POTIONS }} | Maximum number of healing potions the player can carry. |
+| BOMBER_SWORD_DAMAGE | {{ kits.bomber.data.BOMBER_SWORD_DAMAGE }} | The base damage of the sword. |
+| BOMBER_SWORD_SPEED | {{ kits.bomber.data.BOMBER_SWORD_SPEED }} | The base speed of the sword. |
+| BOMBER_BOMB_PLACE_ICD | {{ kits.bomber.data.BOMBER_BOMB_PLACE_ICD }} | The internal cooldown, in ticks, for placing bombs. |
+| BOMBER_BOMB_PLACE_MIN_DISTANCE | {{ kits.bomber.data.BOMBER_BOMB_PLACE_MIN_DISTANCE }} | The minimum distance, in meters, for placing bomb near an already placed bomb. |
+| BOMBER_BOMB_COUNT | {{ kits.bomber.data.BOMBER_BOMB_COUNT }} | The maximum number of placed and held bombs a player can have a once. |
+| BOMBER_BOMB_DAMAGE | {{ kits.bomber.data.BOMBER_BOMB_DAMAGE }} | The damage that a single bomb does. |
+| BOMBER_BOMB_SELF_DAMAGE_MULTIPLIER | {{ kits.bomber.data.BOMBER_BOMB_SELF_DAMAGE_MULTIPLIER }} | The damage multiplier of bomb damage from the player's own bombs.|
+| BOMBER_BOMB_RADIUS | {{ kits.bomber.data.BOMBER_BOMB_RADIUS }} | The radius of the explosion effect. |
+| BOMBER_BOMB_YIELD | {{ kits.bomber.data.BOMBER_BOMB_YIELD }} | The minecraft bomb yield value. (this isn't measured in meters/blocks) |
+| BOMBER_BOMB_KNOCKBACK_MULTIPLIER | {{ kits.bomber.data.BOMBER_BOMB_KNOCKBACK_MULTIPLIER }} | The multiplier of the knockback that is applied to entities after a bomb explosion. |
+| BOMBER_BOMB_REGENERATION_TICKS | {{ kits.bomber.data.BOMBER_BOMB_REGENERATION_TICKS }} | The interval, in ticks, for regenerating bombs. |
+| BOMBER_BOMB_DISPENSER_NUM | {{ kits.bomber.data.BOMBER_BOMB_DISPENSER_NUM }} | The amount of bombs to receive from each engineer dispenser tick. |
+| BOMBER_DETONATE_FUSE_TICKS | {{ kits.bomber.data.BOMBER_DETONATE_FUSE_TICKS }} | The duration, in ticks, it takes for bombs to explode. This is also sets the cooldown for the detonator ability. |

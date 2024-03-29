@@ -1,0 +1,117 @@
+{
+  "kits": {
+    "aquaman": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "AQUAMAN_ONE_WITH_THE_SEA_REGENERATION_AMPLIFIER": 0,
+        "AQUAMAN_ONE_WITH_THE_SEA_REGENERATION_DURATION": 100,
+        "AQUAMAN_ONE_WITH_THE_SEA_WATER_BREATHING_AMPLIFIER": 0,
+        "AQUAMAN_ONE_WITH_THE_SEA_WATER_BREATHING_DURATION": 100,
+        "AQUAMAN_TRIDENT_FAR_DISTANCE": 35,
+        "AQUAMAN_TRIDENT_FAR_MULTIPLIER": 2,
+        "AQUAMAN_TRIDENT_LOYALTY_DELAY": 20,
+        "AQUAMAN_TRIDENT_MELEE_DAMAGE": 4,
+        "AQUAMAN_TRIDENT_MELEE_SPEED": 4,
+        "AQUAMAN_TRIDENT_MISS_DELAY": 100,
+        "AQUAMAN_TRIDENT_THROW_BASE_DAMAGE": 5,
+        "AQUAMAN_TRIDENT_WATER_SYNERGY_DAMAGE_BONUS": 4,
+        "AQUAMAN_WATER_SPHERE_COOLDOWN": 200,
+        "AQUAMAN_WATER_SPHERE_DURATION": 200
+      }
+    },
+    "aquarius": {
+      "data": {
+        
+      }
+    },
+    "bomber": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "BOMBER_BOMB_PLACE_ICD": 5,
+        "BOMBER_BOMB_PLACE_MIN_DISTANCE": 3,
+        "BOMBER_BOMB_COUNT": 3,
+        "BOMBER_BOMB_DAMAGE": 6,
+        "BOMBER_BOMB_SELF_DAMAGE_MULTIPLIER": 0.5,
+        "BOMBER_BOMB_RADIUS": 6,
+        "BOMBER_BOMB_YIELD": 2.5,
+        "BOMBER_BOMB_KNOCKBACK_MULTIPLIER": 0.75,
+        "BOMBER_BOMB_REGENERATION_TICKS": 160,
+        "BOMBER_BOMB_DISPENSER_NUM": 1,
+        "BOMBER_DETONATE_FUSE_TICKS": 30,
+        "BOMBER_SWORD_DAMAGE": 6,
+        "BOMBER_SWORD_SPEED": 4
+      }
+    },
+    "brute": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "BRUTE_AXE_MELEE_DAMAGE": 6,
+        "BRUTE_AXE_MELEE_SPEED": 4,
+        "BRUTE_BERSERK_ACTIVATION_THRESHOLD": 10,
+        "BRUTE_BERSERK_COOLDOWN": 400,
+        "BRUTE_BERSERK_DURATION": 160,
+        "BRUTE_BERSERK_MAX_STACKS": 2,
+        "BRUTE_AXE_SWIRL_COOLDOWN": 60,
+        "BRUTE_AXE_SWIRL_DAMAGE": 4,
+        "BRUTE_AXE_SWIRL_RADIUS": 4,
+        "BRUTE_AXE_SWIRL_DELAY": 5,
+        "BRUTE_AXE_SWIRL_IGNORE_I_FRAMES": true
+      }
+    },
+    "buff_master": {
+      "data": {
+        
+      }
+    },
+    "builder": {
+      "data": {
+        
+      }
+    },
+    "crusader": {
+      "data": {
+        
+      }
+    },
+    "crusher": {
+      "data": {
+        
+      }
+    },
+    "default": {
+      "data": {
+        
+      }
+    },
+    "fish": {
+      "data": {
+        
+      }
+    },
+    "medic": {
+      "data": {
+        
+      }
+    },
+    "miner": {
+      "data": {
+        
+      }
+    },
+    "prometheus": {
+      "data": {
+        
+      }
+    },
+    "slime": {
+      "data": {
+        
+      }
+    },
+    "soldier": {
+      "data": {
+        
+      }
+    }
+  }
+}

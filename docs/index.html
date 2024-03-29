@@ -24,6 +24,12 @@
         theme: 'classic',
         tabComments: true,
         tabHeadings: true
+      },
+      mustache: {
+        noPackage: true,
+        data: [
+          './data/kits.json'
+        ]
       }
     }
   </script>
@@ -31,5 +37,9 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- docsify-tabs (latest v1.x.x) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <!-- Docsify Mustache -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-mustache"></script>
+  <!-- Front Matter -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/front-matter.min.js"></script>
 </body>
 </html>

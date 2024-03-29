@@ -1,9 +1,9 @@
-
+<!-- replace _kit_ with the actual kit name -->
 # _Kit_
 
 ***
 
-#### ![__icon__](../assets/kits/_kit_/_image_.jpg)
+#### ![_kit_icon](../assets/kits/_kit_/_kit_-icon.jpg)
 
 # Overview
 ***
@@ -77,8 +77,18 @@ _description_2_
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| MAX_HEALING_POTIONS | {{ kits._kit_.data.MAX_HEALING_POTIONS }} | Maximum number of healing potions the player can carry. |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
+| | {{ kits._kit_.data. }} | |
