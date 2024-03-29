@@ -21,22 +21,27 @@
 - Chainmail Boots
 - Iron Sword
 - Bow
-- 7 Healing Potions
+- {{ kits.default.data.MAX_HEALING_POTIONS }} Healing Potions
 
 <br />  
 
-# Active Abilities
+## Abilities
 ***
+### Actives
+<!-- tabs:start -->
+#### **Sword**
 ## Sword
 Use your sword to deal damage to enemies.
 
 ![Sword](../assets/kits/default/Default%20-%20Sword.gif)
 
+#### **Bow**
 ## Bow
 Use your bow to deal damage to enemies from a distance.
 
-![Melee](../assets/kits/default/Default%20-%20Bow.gif)
+![Bow](../assets/kits/default/Default%20-%20Bow.gif)
 
+<!-- tabs:end -->
 <br /> 
 
 # Achievements
@@ -51,8 +56,6 @@ None
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| MAX_HEALING_POTIONS | `{{ kits.default.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| DEFAULT_SWORD_DAMAGE | `{{ kits.default.data.DEFAULT_SWORD_DAMAGE }}` | The base damage of the sword. |
+| DEFAULT_SWORD_SPEED | `{{ kits.default.data.DEFAULT_SWORD_SPEED }}` | The base speed of the sword. |

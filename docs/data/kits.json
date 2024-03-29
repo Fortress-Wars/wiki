@@ -139,7 +139,9 @@
     },
     "default": {
       "data": {
-        
+        "MAX_HEALING_POTIONS": 7,
+        "DEFAULT_SWORD_DAMAGE": 6,
+        "DEFAULT_SWORD_SPEED": 4
       }
     },
     "fish": {
@@ -154,7 +156,21 @@
     },
     "miner": {
       "data": {
-        
+        "MAX_HEALING_POTIONS": 7,
+        "MINER_MINERS_FERVOR_DURATION": 200,
+        "MINER_MINERS_FERVOR_COOLDOWN": 400,
+        "MINER_MINERS_FERVOR_HASTE_LEVEL": 1,
+        "BEACON_BREAKER_DAMAGE_ADDITIVE": 2,
+        "MINER_ENGINEER_BLOCK_DAMAGE_ADDITIVE": 50,
+        "MINER_PICKAXE_DAMAGE": 6,
+        "MINER_PICKAXE_SPEED": 4,
+        "MINER_UPGRADED_PICKAXE_EFFICIENCY_LEVEL": 4,
+        "MINER_AXE_DAMAGE": 6,
+        "MINER_AXE_SPEED": 4,
+        "MINER_UPGRADED_AXE_EFFICIENCY_LEVEL": 5,
+        "MINER_SHOVEL_DAMAGE": 6,
+        "MINER_SHOVEL_SPEED": 4,
+        "MINER_UPGRADED_SHOVEL_EFFICIENCY_LEVEL": 5
       }
     },
     "prometheus": {
