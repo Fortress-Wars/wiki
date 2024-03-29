@@ -28,7 +28,7 @@
 
 ## Abilities
 ***
-### Active
+### Actives
 <!-- tabs:start -->
 #### **Bombs**
 ## Bombs
