@@ -61,7 +61,7 @@ Right click to cycle between buffs forwards. Left click to cycle between buffs b
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.buff_master.data.MAX_HEALING_POTIONS }}`  | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.buff_master.data.MAX_HEALING_POTIONS }}`  | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | BUFF_MASTER_BUFF_BASE_COOLDOWN | `{{ kits.buff_master.data.BUFF_MASTER_BUFF_BASE_COOLDOWN }}` | The base cooldown, in ticks, of the Buff ability. |
 | BUFF_MASTER_BUFF_MAX_COOLDOWN | `{{ kits.buff_master.data.BUFF_MASTER_BUFF_MAX_COOLDOWN }}` | The max cooldown, in ticks, of the Buff ability. |
 | BUFF_MASTER_BUFF_PER_MOB_COOLDOWN | `{{ kits.buff_master.data.BUFF_MASTER_BUFF_PER_MOB_COOLDOWN }}` | The cooldown per mob affected, in ticks, added to the base cooldown. |

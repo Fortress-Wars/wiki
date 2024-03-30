@@ -80,7 +80,7 @@ Hitting an enemy with shield bash will trigger Ironclad. Ironclad will provide d
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.crusader.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.crusader.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | CRUSADER_SWORD_DAMAGE | `{{ kits.crusader.data.CRUSADER_SWORD_DAMAGE }}` | The base damage of the sword. |
 | CRUSADER_SWORD_SPEED | `{{ kits.crusader.data.CRUSADER_SWORD_SPEED }}` | The base speed of the sword. |
 | CRUSADER_SHIELD_BASH_DAMAGE | `{{ kits.crusader.data.CRUSADER_SHIELD_BASH_DAMAGE }}` | The base damage of a shield bash collision. |

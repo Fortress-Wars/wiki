@@ -159,7 +159,7 @@ Deal `+{{ kits.fish.data.BEACON_BREAKER_DAMAGE_ADDITIVE }}` damage to beacons.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.fish.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.fish.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | BEACON_BREAKER_DAMAGE_ADDITIVE | `{{ kits.fish.data.BEACON_BREAKER_DAMAGE_ADDITIVE }}` | The bonus beacon damage provided by the Beacon Breaker ability. |
 | FISH_CAN_ACTIVATE_OP_FISH | `{{ kits.fish.data.FISH_CAN_ACTIVATE_OP_FISH }}` | Determines if OP Fish Mode can be activated. |
 | FISH_COD_WEIGHT | `{{ kits.fish.data.FISH_COD_WEIGHT }}` | The weight for summoning cod. |

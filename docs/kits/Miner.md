@@ -76,7 +76,7 @@ Deal `+{{ kits.miner.data.MINER_ENGINEER_BLOCK_DAMAGE_ADDITIVE }}` damage to eng
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.miner.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.miner.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | MINER_MINERS_FERVOR_DURATION | `{{ kits.miner.data.MINER_MINERS_FERVOR_DURATION }}` | The duration, in ticks, of the Miner's Fervor ability. |
 | MINER_MINERS_FERVOR_COOLDOWN | `{{ kits.miner.data.MINER_MINERS_FERVOR_COOLDOWN }}` | The cooldown, in ticks, of the Miner's Fervor ability. |
 | MINER_MINERS_FERVOR_HASTE_LEVEL | `{{ kits.miner.data.MINER_MINERS_FERVOR_HASTE_LEVEL }}` | The level of the haste effect provided by the Miner's Fervor ability. |

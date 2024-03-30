@@ -56,6 +56,6 @@ None
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.default.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.default.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | DEFAULT_SWORD_DAMAGE | `{{ kits.default.data.DEFAULT_SWORD_DAMAGE }}` | The base damage of the sword. |
 | DEFAULT_SWORD_SPEED | `{{ kits.default.data.DEFAULT_SWORD_SPEED }}` | The base speed of the sword. |

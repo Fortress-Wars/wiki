@@ -74,7 +74,7 @@ Bombs will disable shields if the bomb hits a player that is blocking.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.bomber.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.bomber.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | BOMBER_SWORD_DAMAGE | `{{ kits.bomber.data.BOMBER_SWORD_DAMAGE }}` | The base damage of the sword. |
 | BOMBER_SWORD_SPEED | `{{ kits.bomber.data.BOMBER_SWORD_SPEED }}` | The base speed of the sword. |
 | BOMBER_BOMB_PLACE_ICD | `{{ kits.bomber.data.BOMBER_BOMB_PLACE_ICD }}` | The internal cooldown, in ticks, for placing bombs. |

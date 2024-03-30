@@ -79,7 +79,7 @@ Use your grenade to launch yourself up.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.soldier.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.soldier.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | SOLDIER_GRENADE_RADIUS | `{{ kits.soldier.data.SOLDIER_GRENADE_RADIUS }}` | The impact radius of a grenade. |
 | SOLDIER_GRENADE_COOLDOWN | `{{ kits.soldier.data.SOLDIER_GRENADE_COOLDOWN }}` | The cooldown, in ticks, of the Grenade ability. |
 | SOLDIER_GRENADE_DAMAGE | `{{ kits.soldier.data.SOLDIER_GRENADE_DAMAGE }}` | The base damage of the grenade. |
