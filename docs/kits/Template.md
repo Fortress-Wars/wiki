@@ -63,11 +63,7 @@ _description_2_
 
 | Achievement | Description | Reward |
 | ----------- | ----------- | ------ |
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+
 
 <br />  
 

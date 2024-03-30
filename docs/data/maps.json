@@ -1,0 +1,29 @@
+{
+    "mapPropertyDescriptions":{
+        "buildRadius":{
+           "classic":"Specifies the radius of the build area around the beacon. -1 indicates there is no radius",
+           "koth":"Specifies the radius of the overtime area around the beacon.",
+           "ad":"Specifies the radius of the build area around the beacon. -1 indicates there is no radius"
+        },        
+        "buildHeight":{
+            "classic":"Specifies the number of blocks above the beacon at which the player can build.",
+            "koth":"Specifies the number of blocks above the beacon at which the player can build.",
+            "ad":"Specifies the number of blocks above the beacon at which the player can build."  
+        }
+
+    },
+    "maps":{
+        "ashlands":{
+            "data": {
+             "buildRadius": 7,
+             "buildHeight": 25
+            }
+        },
+        "biohazard":{
+            "data":{
+                "buildRadius": 1,
+                "buildHeight": 1
+            }
+        }
+    }
+}
