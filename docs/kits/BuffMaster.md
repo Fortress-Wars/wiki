@@ -32,21 +32,15 @@
 <!-- tabs:start -->
 #### **Buff**
 ## Buff
-Right click to buff all allies in a certain radius (including self). The buff applied will be determined by the currently selected buff. The cooldown will increase the more allies that are buffed.
+Right click to buff all allies within `{{ kits.buff_master.data.BUFF_MASTER_BUFF_RADIUS }}` meters. The buff applied will be determined by the selected buff. The ability has a base cooldown of `{{ kits.buff_master.data.BUFF_MASTER_BUFF_BASE_COOLDOWN }}` ticks and will increase by `{{ kits.buff_master.data.BUFF_MASTER_BUFF_PER_PLAYER_COOLDOWN }}`ticks per player and `{{ kits.buff_master.data.BUFF_MASTER_BUFF_PER_MOB_COOLDOWN }}`ticks per mob affected. The max cooldown is `{{ kits.buff_master.data.BUFF_MASTER_BUFF_MAX_COOLDOWN }}` ticks.
 
-<!-- ![_image_1_](../assets/kits/buff_master/_image_1_.jpg_) -->
+![Buff Master - Buff](../assets/kits/buff_master/Buff%20Master%20-%20Buff.gif)
 
 #### **Select Buff**
 ## Select Buff
 Right click to cycle between buffs forwards. Left click to cycle between buffs backwards. Available effects are Regeneration, Absorption, Speed, and Resistance.
 
-![Regeneration](../assets/kits/buff_master/buff-master-regeneration.jpg)
-
-![Absorption](../assets/kits/buff_master/buff-master-absorption.jpg)
-
-![Speed](../assets/kits/buff_master/buff-master-speed.jpg)
-
-![Resistance](../assets/kits/buff_master/buff-master-resistance.jpg)
+![Buff Master - Select Buff](../assets/kits/buff_master/Buff%20Master%20-%20Select%20Effect.gif)
 
 <!-- tabs:end -->
 <br /> 
