@@ -25,7 +25,7 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
@@ -81,7 +81,7 @@ Anvils will damage engineer blocks.
 | CRUSHER_ANVIL_COOLDOWN | `{{ kits.crusher.data.CRUSHER_ANVIL_COOLDOWN }}` | The cooldown, in ticks, for the Crusher ability. |
 | CRUSHER_ANVIL_SUMMON_ATTEMPTS | `{{ kits.crusher.data.CRUSHER_ANVIL_SUMMON_ATTEMPTS }}` | The number of attempts to summon an anvil. |
 | CRUSHER_ANVIL_SUMMON_POINT_RADIUS | `{{ kits.crusher.data.CRUSHER_ANVIL_SUMMON_POINT_RADIUS }}` | The radius of a summon point used for ray tracing. |
-| CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER | `{{ kits.crusher.data.CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER }}` | The self damage multipler of an anvil when hitting the player. |
+| CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER | `{{ kits.crusher.data.CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER }}` | The self damage multiplier of an anvil when hitting the player. |
 | CRUSHER_ANVIL_IGNORE_DAMAGE_TICKS | `{{ kits.crusher.data.CRUSHER_ANVIL_IGNORE_DAMAGE_TICKS }}` | Determines if the anvil should ignore invulnerability frames. |
 | CRUSHER_ANVIL_TARGET_ENEMIES | `{{ kits.crusher.data.CRUSHER_ANVIL_TARGET_ENEMIES }}` | Determines if the Crusher ability should target enemies. |
 | CRUSHER_SWORD_DAMAGE | `{{ kits.crusher.data.CRUSHER_SWORD_DAMAGE }}` | The base damage of the sword. |

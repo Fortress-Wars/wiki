@@ -26,7 +26,7 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
@@ -42,7 +42,8 @@ The upgraded axe can instantly break shields.
 
 <!-- tabs:end -->
 
-# Passives
+### Passives
+<!-- tabs:start -->
 #### **Beacon Breaker**
 ## Beacon Breaker
 Deal `+{{ kits.miner.data.BEACON_BREAKER_DAMAGE_ADDITIVE }}` damage to beacons.
@@ -55,6 +56,7 @@ Deal `+{{ kits.miner.data.MINER_ENGINEER_BLOCK_DAMAGE_ADDITIVE }}` damage to eng
 
 ![Beacon Breaker](../assets/kits/miner/Miner%20-%20Engineer%20Breaker.gif)
 
+<!-- tabs:end -->
 <br />  
 
 # Achievements

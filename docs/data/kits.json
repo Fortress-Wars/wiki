@@ -185,7 +185,14 @@
     },
     "soldier": {
       "data": {
-        
+        "MAX_HEALING_POTIONS": 7,
+        "SOLDIER_GRENADE_RADIUS": 3,
+        "SOLDIER_GRENADE_COOLDOWN": 120,
+        "SOLDIER_GRENADE_DAMAGE": 7,
+        "SOLDIER_GRENADE_KNOCKBACK_MULTIPLIER": 0.5,
+        "SOLDIER_GRENADE_SELF_DAMAGE_MULTIPLIER": 0.5,
+        "SOLDIER_SWORD_DAMAGE": 6,
+        "SOLDIER_SWORD_SPEED": 4
       }
     }
   }
