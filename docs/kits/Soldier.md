@@ -31,7 +31,7 @@
 <!-- tabs:start -->
 #### **Grenade**
 ## Grenade
-Right click to launch a grenade forward. When the grenade explodes, it will deal damage and knockback.
+Right click to launch a grenade forward. When the grenade explodes, it will deal `{{ kits.soldier.data.SOLDIER_GRENADE_DAMAGE }}` damage and also deal knockback.
 
 ![Grenade 1](../assets/kits/soldier/Soldier%20-%20Grenade%20Enemy.gif)
 

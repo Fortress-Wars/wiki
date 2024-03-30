@@ -38,7 +38,7 @@ Bombs are used to deal large area damage. Bombs can't be placed too close to oth
 
 #### **Detonator**
 ## Detonator
-Right click to detonate all of the player's bombs dealing damage to enemies and self. Bombs will ignore invulnerability frames. The player can also detonate bombs while respawning.
+Right click to detonate all of the player's bombs dealing `{{ kits.bomber.data.BOMBER_BOMB_DAMAGE }}` damage to enemies. Bombs will deal `{{ kits.bomber.data.BOMBER_BOMB_SELF_DAMAGE_MULTIPLIER }}` self damage to the player. Bombs will ignore invulnerability frames. The player can also detonate bombs while respawning.
 
 ![Detonator 1](../assets/kits/bomber/Bomber%20-%20Detonate.gif)
 
