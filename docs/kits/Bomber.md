@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A damage kit that places and detonates bombs.
 - **Role:** Damage
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 

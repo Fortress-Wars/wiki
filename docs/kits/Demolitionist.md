@@ -9,7 +9,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A tank kit that can use TNT to temporarily destroy player placed blocks.
 - **Role:** Tank
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 

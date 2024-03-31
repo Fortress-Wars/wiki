@@ -168,8 +168,8 @@
     "engineer": {
       "data": {
         "MAX_HEALING_POTIONS": 7,
-        "ENGINEER_WRENCH_SPEED": 4,
         "ENGINEER_WRENCH_DAMAGE": 5,
+        "ENGINEER_WRENCH_SPEED": 4,
         "ENGINEER_WRENCH_REPAIR_AMOUNT": 25,
         "ENGINEER_WRENCH_REPAIR_METAL_AMOUNT": 5,
         "ENGINEER_SENTRY_WARMUP": 200,

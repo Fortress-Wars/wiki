@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A utility kit with better mining tools.
 - **Role:** Utility
-- **How to Unlock:** Unlocked by Default
+- **How to Unlock:** Unlocked by Default.
 
 <br />  
 

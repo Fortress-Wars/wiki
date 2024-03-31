@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A tanky kit that has higher mobility and a shield bashing ability.
 - **Role:** Tank
-- **How to Unlock:** Unlocked by Default
+- **How to Unlock:** Unlocked by Default.
 
 <br />  
 

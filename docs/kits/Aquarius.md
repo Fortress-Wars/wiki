@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A support kit that uses mana to control the water element.
 - **Role:** Support
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 
@@ -24,10 +24,25 @@
 - 100 Mana
 - 7 Mana Potions
 
-<br />  
+<br />   
 
 # Abilities
 ***
+
+### Resources
+<!-- tabs:start -->
+#### **Mana & Mana Regeneration**
+## Mana & Mana Regeneration
+Mana is a resource that is used to cast spells. It will regenerate over time.
+
+![Mana & Mana Regeneration 1](../assets/kits/aquarius/Aquarius%20-%20Mana%20Regeneration.gif)
+
+After getting an elimination, the player will receive mana. The player will also receive a mana potion if they are the one who got the final blow.
+
+![Mana & Mana Regeneration 1](../assets/kits/aquarius/Aquarius%20-%20Kill%20Reward.gif)
+
+<!-- tabs:end -->
+
 ### Actives
 <!-- tabs:start -->
 #### **Water Beam**
@@ -58,16 +73,6 @@ Right click to cast. Casting will summon a water bomb projectile. When it hits a
 
 ### Passives
 <!-- tabs:start -->
-#### **Mana & Mana Regeneration**
-## Mana & Mana Regeneration
-Mana is a resource that is used to cast spells. It will regenerate over time.
-
-![Mana & Mana Regeneration 1](../assets/kits/aquarius/Aquarius%20-%20Mana%20Regeneration.gif)
-
-After getting an elimination, the player will receive mana. The player will also receive a mana potion if they are the one who got the final blow.
-
-![Mana & Mana Regeneration 1](../assets/kits/aquarius/Aquarius%20-%20Kill%20Reward.gif)
-
 #### **Extinguish Fire**
 ## Extinguish Fire
 
