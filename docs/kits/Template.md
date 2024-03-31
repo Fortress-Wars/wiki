@@ -3,7 +3,7 @@
 
 ***
 
-#### ![_kit_icon](../assets/kits/_kit_/_kit_-icon.jpg)
+#### ![_kit_icon](../assets/icons/_kit_-icon.jpg)
 
 # Overview
 ***

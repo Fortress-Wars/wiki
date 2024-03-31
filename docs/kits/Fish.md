@@ -3,7 +3,7 @@
 
 ***
 
-#### ![fish-icon](../assets/kits/fish/fish-icon.jpg)
+#### ![fish-icon](../assets/icons/fish-icon.jpg)
 
 # Overview
 ***
@@ -36,7 +36,7 @@ A powerful fishy melee weapon. Left click to use [Fish Throw](#fish-throw). Righ
 #### **Fish Throw**
 ## Fish Throw
 
-Summon a fish and throw it.
+Left click to use. Summon a fish and throw it.
         
 ![Fish - Fish Throw](../assets/kits/fish/Fish%20-%20Fish%20Throw.gif)
 
@@ -47,7 +47,7 @@ All fish from the player can be blocked by a shield.
 #### **Fishplosion**
 ## Fishplosion
 
-Summon an explosion of fish.
+Right click to use. Summon an explosion of fish.
 
 ![Fish - Fishplosion](../assets/kits/fish/Fish%20-%20Fishplosion.gif)
 
@@ -70,7 +70,7 @@ Turn into an overpowered fish! OP fish mode **enables** the following abilities:
 <!-- tabs:start -->
 #### **Bountiful Fish**
 ## Bountiful Fish
-When a fish is summoned, it will be one of `6` fish: Cod, Cooked Cod, Salmon, Cooked Salmon, Tropical Fish, or Pufferfish. Each fish has a different effect and differnt chance of spawning.
+When a fish is summoned, it will be one of `6` fish: Cod, Cooked Cod, Salmon, Cooked Salmon, Tropical Fish, or Pufferfish. Each fish has a different effect and different chance of spawning.
 
 <!-- tabs:start -->
 #### **Cod**
