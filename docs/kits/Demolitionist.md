@@ -58,6 +58,7 @@ When the player is close to a friendly [Bomber](./Bomber.md), and the friendly B
 ![_image_1_](../assets/kits/demolitionist/_image_1_.jpg_)
 
 <!-- tabs:end -->
+<br />
 
 # Achievements
 ***

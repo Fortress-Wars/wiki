@@ -26,22 +26,6 @@
 
 # Abilities
 ***
-### Resources
-<!-- tabs:start -->
-#### **Resource_1**
-## Resource_1
-_description_1_
-
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
-
-#### **Resource_2**
-## Resource_2
-_description_2_
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
-
-<!-- tabs:end -->
-
 ### Actives
 <!-- tabs:start -->
 #### **Ability_1**
@@ -73,6 +57,23 @@ _description_2_
 ![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
 
 <!-- tabs:end -->
+
+### Resources
+<!-- tabs:start -->
+#### **Resource_1**
+## Resource_1
+_description_1_
+
+![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+
+#### **Resource_2**
+## Resource_2
+_description_2_
+
+![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
+
+<!-- tabs:end -->
+<br />
 
 # Achievements
 ***

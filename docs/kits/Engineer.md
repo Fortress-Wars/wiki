@@ -135,6 +135,7 @@ Obtain `{{ kits.engineer.data.ENGINEER_KILL_ELIMINATION_REWARD }}` metal after a
 ![_image_1_](../assets/kits/engineer/_image_1_.jpg_)
 
 <!-- tabs:end -->
+<br />
 
 # Achievements
 ***
