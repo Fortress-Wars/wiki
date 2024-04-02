@@ -18,6 +18,7 @@
 <br />  
 
 # Map Galley
+![_map_ - Beacon](../assets/maps/_map_/ '')
 
 # Achievements
 ***

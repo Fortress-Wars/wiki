@@ -4,7 +4,7 @@
 
 ***
 
-#### ![CoastKOTHicon](../assets/maps/_map_/_map_-icon.jpg)
+#### ![CoastKOTHicon](../assets/maps/coastKOTH/coastKOTH-icon.jpg)
 
 # Overview
 ***

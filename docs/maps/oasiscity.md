@@ -4,7 +4,7 @@
 
 ***
 
-#### ![oasiscityicon](../assets/maps/oasiscity/oasiscity-icon.jpg)
+#### ![oasiscityicon](../assets/maps/oasis/oasiscity-icon.jpg)
 
 # Overview
 ***

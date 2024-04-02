@@ -4,7 +4,7 @@
 
 ***
 
-#### ![Ashlandsicon](../assets/maps/_map_/_map_-icon.jpg)
+#### ![Ashlandsicon](../assets/maps/ashlands/ashlands-icon.jpg)
 
 # Overview
 ***
@@ -18,7 +18,6 @@
 <br />  
 
 # Map Galley
-
 ![Ashlands - Beacon](../assets/maps/ashlands/ashlands%20beacon.gif 'Beacon')
 ![Ashlands - Flank](../assets/maps/ashlands/ashlands%20flank.gif 'Flank')
 ![Ashlands - Spawn](../assets/maps/ashlands/ashlands%20spawn.gif 'Spawn Area')
