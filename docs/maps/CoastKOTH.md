@@ -9,10 +9,10 @@
 # Overview
 ***
 - **Introduced:** v1.7.0
-- **Description:** ___
+- **Description:** A reformated version of the map [Coast](CoastCLASSIC)
 - **Gamemode:** King of the Hill
 - **Map Type:** Non-Build (NB)
-- **Size:** Medium
+- **Size:** Large
 - **Contributors:** LinkFD & TheLordStan
 
 <br />  

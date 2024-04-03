@@ -1,10 +1,10 @@
 <!-- replace _map_ with the actual map name -->
 <!-- change gamemode type for the Map data description  -->
-# Biohazard
+# Bootcamp
 
 ***
 
-#### ![biohazardicon](../assets/maps/biohazard/biohazard-icon.jpg)
+#### ![bootcampicon](../assets/maps/bootcamp/bootcamp-icon.jpg)
 
 # Overview
 ***
@@ -13,19 +13,19 @@
 - **Gamemode:** Classic
 - **Map Type:** Non-Build (NB)
 - **Size:** Medium
-- **Contributors:** Naparizel
+- **Contributors:** xzyle
 
 <br />  
 
 # Map Galley
-![Biohazard - Beacon](../assets/maps/biohazard/ '')
+![Bootcamp - Beacon](../assets/maps/bootcamp/ '')
 
 # Achievements
 ***
 
 | Achievement | Description | Reward |
 | ----- | ----- | ------ |
-| Acid's not so toxic... | Win a game on the map Biohazard. | 20 Credits |
+| I survived bootcamp! | Win a game on the map Bootcamp. | 20 Credits |
 
 
 
@@ -34,5 +34,5 @@
 
 | Property | Value | Description |
 | ----------- | ----------- | ------ |
-| buildRadius |`{{ maps.biohazard.data.buildRadius }}`| {{ mapPropertyDescriptions.buildRadius.classic }} |
-| buildHeight |`{{ maps.biohazard.data.buildHeight }}`| {{ mapPropertyDescriptions.buildHeight.classic }} |
+| buildRadius |`{{ maps.bootcamp.data.buildRadius }}`| {{ mapPropertyDescriptions.buildRadius.classic }} |
+| buildHeight |`{{ maps.bootcamp.data.buildHeight }}`| {{ mapPropertyDescriptions.buildHeight.classic }} |

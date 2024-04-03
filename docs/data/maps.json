@@ -211,7 +211,7 @@
                 "buildHeight":10
             }
         },
-        "walls":{
+        "greatwall":{
             "data":{
                 "buildRadius":35,
                 "buildHeight":40
