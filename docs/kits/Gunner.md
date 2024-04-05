@@ -35,6 +35,8 @@ Right click to shoot bullets. Each time the player shoots, the heat meter percen
 
 ![_image_1_](../assets/kits/gunner/_image_1_.jpg_)
 
+If the hit enemy is blocking, they will still take damage, but will take `x{{ kits.gunner.data.GUNNER_BULLET_BLOCK_MULTIPLIER }}` damage.
+
 #### **Rev Up**
 ## Rev Up
 Left click to rev up.
