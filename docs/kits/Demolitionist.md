@@ -33,7 +33,9 @@
 ## Demolition
 Right click a block to create a demolitionist bomb. When the bomb explodes will deal `{{ kits.demolitionist.data.DEMOLITIONIST_DEMOLISH_DAMAGE }}` damage and temporaily destroy all blocks placed by players for `{{ kits.demolitionist.data.DEMOLITIONIST_DEMOLISH_BLOCKS_BROKEN_DURATION }}` ticks in a `{{ kits.demolitionist.data.DEMOLITIONIST_DEMOLISH_RADIUS }}` block radius.
 
-![Demolition](../assets/kits/demolitionist/_image_1_.jpg_)
+![Demolition 1](../assets/kits/demolitionist/_image_1_.jpg_)
+
+![Demolition 2](../assets/kits/demolitionist/_image_1_.jpg_)
 
 #### **Instant Demolition**
 ## Instant Demolition
@@ -45,7 +47,7 @@ Igniting an bomber bomb will cause it to detonate instantly and explode as a dem
 ## Forced Demolition
 The player can ignite creepers.
 
-![InstForcedant Demolition](../assets/kits/demolitionist/_image_2_.jpg_)
+![Forced Demolition](../assets/kits/demolitionist/_image_2_.jpg_)
 
 <!-- tabs:end -->
 
@@ -55,7 +57,7 @@ The player can ignite creepers.
 ## Bomb Recycling
 When the player is close to a friendly [Bomber](./Bomber.md), and the friendly Bomber break their bombs, they will receive their bomber bombs back instantly.
 
-![_image_1_](../assets/kits/demolitionist/_image_1_.jpg_)
+![Bomb Recycling](../assets/kits/demolitionist/_image_1_.jpg_)
 
 <!-- tabs:end -->
 <br />

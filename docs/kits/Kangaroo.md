@@ -36,6 +36,8 @@ Right click to gain jump boost for `{{ kits.kangaroo.data.KANGAROO_STOMP_DURATIO
 
 The kangaroo will damage [Engineer Blocks](Engineer#sentries).
 
+![_image_1_](../assets/kits/kangaroo/_image_1_.jpg_)
+
 <!-- tabs:end -->
 
 ### Passives

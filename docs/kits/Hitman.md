@@ -61,15 +61,15 @@ Gives the glowing effect for `{{ kits.hitman.data.HITMAN_GLOWING_DURATION }}` ti
 
 ![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
 
-#### **Harming**
-## Harming
-Damages the enemy for `{{ kits.hitman.data.HITMAN_INSTANT_DAMAGE_DAMAGE }}` HP.
-
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
-
 #### **Weakness**
 ## Weakness
 Gives the weakness effect for `{{ kits.hitman.data.HITMAN_WEAKNESS_DURATION }}` ticks.
+
+![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+
+#### **Harming**
+## Harming
+Damages the enemy for `{{ kits.hitman.data.HITMAN_INSTANT_DAMAGE_DAMAGE }}` HP.
 
 ![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
 <!-- tabs:end -->
