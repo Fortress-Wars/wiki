@@ -37,6 +37,8 @@ Right click to shoot bullets. Each time the player shoots, the heat meter percen
 
 If the hit enemy is blocking, they will still take damage, but will take `x{{ kits.gunner.data.GUNNER_BULLET_BLOCK_MULTIPLIER }}` damage.
 
+![_image_1_](../assets/kits/gunner/_image_1_.jpg_)
+
 #### **Rev Up**
 ## Rev Up
 Left click to rev up.
@@ -65,11 +67,7 @@ The player will rev down automatcially if they are stunned or hacked.
 ## Heat Meter
 The heat meter indicates how close the machine gun is to overheating.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
-
-When the heat meter reaches 100%, the player's machine gun will overheat. The machine gun will take `{{ kits.gunner.data.GUNNER_OVERHEAT_COOLDOWN }}` ticks to cool off.
-
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Heat Meter](../assets/kits/gunner/Heat_Meter.png)
 
 <!-- tabs:end -->
 <br />

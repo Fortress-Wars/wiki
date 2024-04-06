@@ -36,16 +36,13 @@
 ## Metal
 Metal is a resource used to repair and place sentries, dispensers, and teleporters. The player can see how munch metal they have by holding their [Wrench](#wrench) or looking at their expeirence bar.
 
-![_image_1_](../assets/kits/engineer/_image_1_.jpg_)
+![Metal](../assets/kits/engineer/Metal.png)
 
 <!-- tabs:end -->
 ### Actives
 <!-- tabs:start -->
 #### **Wrench**
 ## Wrench
-The player's primary tool. It is used to repair and pick up engineer blocks. Holding it will show the metal.
-
-![_image_1_](../assets/kits/engineer/_image_1_.jpg_)
 
 Players can use their Wrench to repair any friendly sentries, dispensers, entrance teleporters, and exit teleporters by `{{ kits.engineer.data.ENGINEER_WRENCH_REPAIR_AMOUNT }}` HP. This will cost `{{ kits.engineer.data.ENGINEER_WRENCH_REPAIR_METAL_AMOUNT }}` metal.
 
