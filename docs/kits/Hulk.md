@@ -9,7 +9,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A defensive damage kit with weaker armor that can rage and get much stronger.
 - **Role:** Damage
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 
