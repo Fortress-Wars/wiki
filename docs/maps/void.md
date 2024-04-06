@@ -12,7 +12,7 @@
 - **Description:** ___
 - **Gamemode:** Classic
 - **Map Type:** Build and Break (BAB)
-- **Size:** Large
+- **Size:** Medium
 - **Contributors:** St3vanAU
 
 <br />  

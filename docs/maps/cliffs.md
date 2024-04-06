@@ -12,7 +12,7 @@
 - **Description:** ___
 - **Gamemode:** Classic
 - **Map Type:** Build (B)
-- **Size:** Small
+- **Size:** Extra Small
 - **Contributors:** flameproofsocks
 
 <br />  

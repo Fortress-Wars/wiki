@@ -12,7 +12,7 @@
 - **Description:** ___
 - **Gamemode:** Classic
 - **Map Type:** Build (B)
-- **Size:** Large
+- **Size:** Medium
 - **Contributors:** Demodwarfz & LittleChaos98
 
 <br />  

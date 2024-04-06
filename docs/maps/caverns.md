@@ -12,7 +12,7 @@
 - **Description:** ___
 - **Gamemode:** Classic
 - **Map Type:** Build (B)
-- **Size:** Large
+- **Size:** Small
 - **Contributors:** UNKNOWN
 
 <br />  

@@ -12,7 +12,7 @@
 - **Description:** ___
 - **Gamemode:** King of the Hill
 - **Map Type:** Non-Build (NB)
-- **Size:** Big
+- **Size:** Large
 - **Contributors:** LinkFD & TheLordStan
 
 <br />  
