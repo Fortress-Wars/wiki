@@ -28,24 +28,24 @@
 ### Actives
 <!-- tabs:start -->
 #### **Translocator**
-## Ability_1
+## Translocator
 Right click to throw a translocator in the direction the player is looking. After `{{ kits.jumper.data.JUMPER_TRANSLOCATOR_AFTER_THROW_COOLDOWN }}` ticks, the player can right click again to teleport to it. The player must be within `{{ kits.jumper.data.JUMPER_TRANSLCOATOR_TELEPORT_DISTANCE }}` meters of the translocator to teleport to it. If `JUMPER_TRANSLOCATOR_SILENT_TELEPORT` is set to `true`, then the player will be silent when teleporting.
 
-![_image_1_](../assets/kits/jumper/_image_1_.jpg_)
+![Translocator - Teleport](../assets/kits/jumper/Jumper%20-%20Translocator%20Teleport.gif)
 
 The player can left click to retrieve the translocator from any location.
 
-![_image_1_](../assets/kits/jumper/_image_1_.jpg_)
+![Translocator - Recover (Left Click)](../assets/kits/jumper/Jumper%20-%20Translocator%20Recover%20Remotely.gif)
 
 The player can walk over the translocator to pick it up.
 
-![_image_1_](../assets/kits/jumper/_image_1_.jpg_)
+![Translocator - Recover (Pickup)](../assets/kits/jumper/Jumper%20-%20Translocator%20Recover%20Pickup.gif)
 
 Enemies can break translocators by picking them up or using certain abilities to break them.
 
-![_image_1_](../assets/kits/jumper/_image_1_.jpg_)
+![Translocator - Detroy (Pickup)](../assets/kits/jumper/Jumper%20-%20Translocator%20Destroyed%20Pickup.gif)
 
-![_image_1_](../assets/kits/jumper/_image_1_.jpg_)
+![Translocator - Destroy (Ability Damage)](../assets/kits/jumper/Jumper%20-%20Translocator%20Destroyed%20Damage.gif)
 
 <!-- tabs:end -->
 <br />

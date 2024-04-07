@@ -32,11 +32,13 @@
 ## Divination Star
 Right click to throw a star. When it hits an enemy, it will tag them with [Future Sight](#future-sight). If `ILLUSIONIST_DIVINATION_STAR_DO_DISORIENTATION` is set to `true`, then tagging an enemy will also make them look in a random direction.
 
-![_image_1_](../assets/kits/illusionist/_image_1_.jpg_)
+![Divination Star - Tag](../assets/kits/illusionist/Illusionist%20-%20Divination%20Star%20Tag.gif)
 
 Divination stars will hack [Engineer Blocks](Engineer#sentries) for `{{ kits.illusionist.data.ILLUSIONIST_DIVINATION_STAR_BLOCK_HACK_DURATION }}` ticks.
 
-![_image_1_](../assets/kits/illusionist/_image_1_.jpg_)
+![Divination Star - Hack 1](../assets/kits/illusionist/Illusionist%20-%20Divination%20Star%20Hack.gif)
+
+![Divination Star - Hack 2](../assets/kits/illusionist/Illusionist%20-%20Divination%20Star%20Hack%202.gif)
 
 <!-- tabs:end -->
 
@@ -46,21 +48,21 @@ Divination stars will hack [Engineer Blocks](Engineer#sentries) for `{{ kits.ill
 ## Future Sight
 An enemy tagged with futue sight will take `x{{ kits.illusionist.data.ILLUSIONIST_DIVINATION_STAR_DAMAGE_MULTIPLIER_ADDITIVE }}` more damage if the damage source is from the player that tagged them. When future sight expires, it will also deal `{{ kits.illusionist.data.ILLUSIONIST_FUTURE_SIGHT_DAMAGE }}` damage.
 
-![_image_1_](../assets/kits/illusionist/_image_1_.jpg_)
+![Future Sight](../assets/kits/illusionist/Illusionist%20-%20Future%20Sight.gif)
 
 #### **Fake Death**
 ## Fake Death
-When the player takes a fatal attack from the enemy tagged with [Futre Sight](#future-sight), they will fake their death. When the player fakes their death, they will heal `{{ kits.illusionist.data.ILLUSIONIST_FAKE_DEATH_HEALING }}` HP, cloak and turn invisible for `{{ kits.illusionist.data.ILLUSIONIST_FAKE_DEATH_INVISIBILITY_DURATION }}` ticks, be pushed back, and lose all of their healing potions. A death message will also appear in the chat.
+When the player takes a fatal attack from the enemy tagged with [Future Sight](#future-sight), they will fake their death. When the player fakes their death, they will heal `{{ kits.illusionist.data.ILLUSIONIST_FAKE_DEATH_HEALING }}` HP, cloak and turn invisible for `{{ kits.illusionist.data.ILLUSIONIST_FAKE_DEATH_INVISIBILITY_DURATION }}` ticks, be pushed back, and lose all of their healing potions. A death message will also appear in the chat.
 
-![_image_2_](../assets/kits/illusionist/_image_2_.jpg_)
+![Fake Death](../assets/kits/illusionist/Illusionist%20-%20Fake%20Death.gif)
 
-The player will uncloak if the duration expires, left click a block, or damage an enemy.
+The player will uncloak if the duration expires or if they left click a block, or damage an enemy.
 
-![_image_2_](../assets/kits/illusionist/_image_2_.jpg_)
+![Fake Death - Uncloak](../assets/kits/illusionist/Illusionist%20-%20Fake%20Death%20Unlock%20Hit%20Block.gif)
 
 If the player damages an enemy to uncloak, they will also hack them for `{{ kits.illusionist.data.ILLUSIONIST_FAKE_DEATH_UNCLOAK_HACK_DURATION }}` ticks.
 
-![_image_2_](../assets/kits/illusionist/_image_2_.jpg_)
+![Fake Death - Uncloak Hack](../assets/kits/illusionist/Illusionist%20-%20Fake%20Death%20Uncloak%20Hack.gif)
 
 <!-- tabs:end -->
 <br />

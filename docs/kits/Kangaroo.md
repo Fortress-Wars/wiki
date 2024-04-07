@@ -32,11 +32,11 @@
 ## Stomp
 Right click to gain jump boost for `{{ kits.kangaroo.data.KANGAROO_STOMP_DURATION }}` ticks. When the player lands, they will deal damage in a `{{ kits.kangaroo.data.KANGAROO_STOMP_RADIUS }}` meter radius. The damage is based the player's fall distance and the enemy's on armor points. The formula is `Fall Distance / (Armor Points - {{ kits.kangaroo.data.KANGAROO_STOMP_MIN_DAMAGE }}) + {{ kits.kangaroo.data.KANGAROO_STOMP_MIN_DAMAGE }}`. The player can deal a max of `{{ kits.kangaroo.data.KANGAROO_STOMP_MAX_DAMAGE }}` damage.
 
-![_image_1_](../assets/kits/kangaroo/_image_1_.jpg_)
+![Stomp](../assets/kits/kangaroo/Kangaroo%20-%20Stomp.gif)
 
 The kangaroo will damage [Engineer Blocks](Engineer#sentries).
 
-![_image_1_](../assets/kits/kangaroo/_image_1_.jpg_)
+![Stomp - Engineer Blocks](../assets/kits/kangaroo/Kangaroo%20-%20Stomp%20Engineer%20Blocks.gif)
 
 <!-- tabs:end -->
 
@@ -46,7 +46,7 @@ The kangaroo will damage [Engineer Blocks](Engineer#sentries).
 ## Strong Legs
 The player is immune to fall damage.
 
-![_image_1_](../assets/kits/kangaroo/_image_1_.jpg_)
+![Strong Legs](../assets/kits/kangaroo/Kangaaroo%20-%20Strong%20Legs.gif)
 
 <!-- tabs:end -->
 <br />
@@ -56,9 +56,9 @@ The player is immune to fall damage.
 
 | Achievement | Description | Reward |
 | ----------- | ----------- | ------ |
-| Stomptopia | Get 1,000 stomp kills. | 250 Credits |
 | Crippled Turret | Destroy a sentry with your stomp ability. | 20 Credits |
 | Mega Stomp | Stomp on an enemy after falling for 50 blocks. | 50 Credits |
+| Stomptopia | Get 1,000 stomp kills. | 250 Credits |
 
 <br />  
 

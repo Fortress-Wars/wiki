@@ -33,31 +33,31 @@
 ## Machine Gun
 Right click to shoot bullets. Each time the player shoots, the heat meter percentage will increase. (The player must rev up before shooting)
 
-![_image_1_](../assets/kits/gunner/_image_1_.jpg_)
+![Machine Gun - Shoot](../assets/kits/gunner/Gunner%20-%20Shoot.gif)
 
 If the hit enemy is blocking, they will still take damage, but will take `x{{ kits.gunner.data.GUNNER_BULLET_BLOCK_MULTIPLIER }}` damage.
 
-![_image_1_](../assets/kits/gunner/_image_1_.jpg_)
+![Machine Gun - Shoot Shield](../assets/kits/gunner/Gunner%20-%20Shoot%20Shield.gif)
 
 #### **Rev Up**
 ## Rev Up
 Left click to rev up.
 
-![_image_2_](../assets/kits/gunner/_image_2_.jpg_)
+![Rev Up](../assets/kits/gunner/Gunner%20-%20Rev%20Up.gif)
 
 #### **Rev Down**
 ## Rev Down
 Left click to rev down.
 
-![_image_2_](../assets/kits/gunner/_image_2_.jpg_)
+![Rev Down](../assets/kits/gunner/Gunner%20-%20Rev%20Down.gif)
 
 The player will rev down automatcially if their machine gun overheats.
 
-![_image_2_](../assets/kits/gunner/_image_2_.jpg_)
+![Rev Down - Overheat](../assets/kits/gunner/Gunner%20-%20Overheat.gif)
 
 The player will rev down automatcially if they are stunned or hacked.
 
-![_image_2_](../assets/kits/gunner/_image_2_.jpg_)
+![Rev Down - Stun](../assets/kits/gunner/Gunner%20-%20Stun.gif)
 
 <!-- tabs:end -->
 

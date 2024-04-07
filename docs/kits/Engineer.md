@@ -46,48 +46,47 @@ Metal is a resource used to repair and place sentries, dispensers, and teleporte
 
 Players can use their Wrench to repair any friendly sentries, dispensers, entrance teleporters, and exit teleporters by `{{ kits.engineer.data.ENGINEER_WRENCH_REPAIR_AMOUNT }}` HP. This will cost `{{ kits.engineer.data.ENGINEER_WRENCH_REPAIR_METAL_AMOUNT }}` metal.
 
-![_image_1_](../assets/kits/engineer/_image_1_.jpg_)
+![Wrench - Repair](../assets/kits/engineer/Engineer%20-%20Wrench%20Repair.gif)
 
 Player's can pick up their sentries, dispensers, entrance teleporters, and exit teleporters. The metal refunded is determined by the percentage of remaining of HP.
 
-![_image_1_](../assets/kits/engineer/_image_1_.jpg_)
+![Wrench - Pickup](../assets/kits/engineer/Engineer%20-%20Wrench%20Pickup.gif)
 
 #### **Sentries**
 ## Sentries
 Sentries are `Engineer Blocks` that will fire projectiles at enemies. Placing a sentry costs `{{ kits.engineer.data.ENGINEER_SENTRY_METAL_COST }}` metal and will take `{{ kits.engineer.data.ENGINEER_SENTRY_WARMUP }}` ticks to warmup. Players can cannot place sentries within `{{ kits.engineer.data.ENGINEER_SENTRY_LIMIT_RADIUS }}` meters of other friendly Sentires. Sentries will target `{{ kits.engineer.data.ENGINEER_SENTRY_TARGETS_PER_SHOT }}` enemy in a `{{ kits.engineer.data.ENGINEER_SENTRY_FIRE_RADIUS }}` meter radius and fire every `{{ kits.engineer.data.ENGINEER_SENTRY_FIRE_RATE }}` ticks. Sentries deal `{{ kits.engineer.data.ENGINEER_SENTRY_PROJECTILE_DAMAGE }}` damage.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Sentry](../assets/kits/engineer/Engineer%20-%20Sentry.gif)
 
 Sentries can be damaged by enemies.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Sentry - Damage](../assets/kits/engineer/Engineer%20-%20Sentry%20Damage.gif)
 
 Sentries will not shoot if they are stunned.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Sentry - Stun](../assets/kits/engineer/Engineer%20-%20Sentry%20Stun.gif)
 
 Sentries will shoot at allies if they are hacked.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Sentry - Hack](../assets/kits/engineer/Engineer%20-%20Sentry%20Hack.gif)
 
 
 #### **Dispensers**
 ## Dispensers
 Dispensers are `Engineer Blocks` that will give consumables to allies. Placing a dispenser costs `{{ kits.engineer.data.ENGINEER_DISPENSER_METAL_COST }}` metal. Players cannot place dispensers within `{{ kits.engineer.data.ENGINEER_DISPENSER_LIMIT_RADIUS }}` meters of friendly Dispensers. Dispensers will dispense potions and other consumables every `{{ kits.engineer.data.ENGINEER_DISPENSER_DISPENSE_RATE }}` ticks to all allies within a `{{ kits.engineer.data.ENGINEER_DISPENSER_DISPENSE_RADIUS }}` meter radius. In addition, when Dispensers dispense, they will refresh all ability cooldowns by `{{ kits.engineer.data.ENGINEER_DISPENSE_COOLDOWN_REFRESH_PERCENT }}%`.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Dispenser](../assets/kits/engineer/Engineer%20-%20Dispenser.gif)
 
 Dispensers can be damaged by enemies.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Dispenser - Damage](../assets/kits/engineer/Engineer%20-%20Dispenser%20Damage.gif)
 
 Dispensers will not dispense if they are stunned.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
-
+![Dispenser - Stun](../assets/kits/engineer/Engineer%20-%20Dispenser%20Stun.gif)
 Dispensers will dispense to enemies when they are hacked.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Dispenser - Hack](../assets/kits/engineer/Engineer%20-%20Dispenser%20Hack.gif)
 
 #### **Teleporters**
 ## Teleporters
@@ -98,28 +97,28 @@ Teleporters are `Engineer Blocks` that teleport players. Entrance and Exit telep
 ## Entrance Teleporter
 Placing a entrance teleporter costs `{{ kits.engineer.data.ENGINEER_ENTRANCE_TELEPORTER_METAL_COST }}` metal. The players can use entrance teleporters by walking over them.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Entrance Teleporter](../assets/kits/engineer/Engineer%20-%20Teleporter%20Entrance.gif)
 
 
 #### **Exit Teleporter**
 ## Exit Teleporter
 Placing an exit teleporter costs `{{ kits.engineer.data.ENGINEER_EXIT_TELEPORTER_METAL_COST }}` metal. After a player uses the corresponding teleporter entrance, they will teleport to the exit teleporter.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Exit Teleporter](../assets/kits/engineer/Engineer%20-%20Teleporter%20Exit.gif)
 
 <!-- tabs:end -->
 
 Teleporters can be damaged by enemies.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Teleporter - Damage](../assets/kits/engineer/Engineer%20-%20Teleporter%20Damage.gif)
 
 Teleporters cannot be used if they are stunned.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Teleporter - Stun](../assets/kits/engineer/Engineer%20-%20Teleporter%20Stun.gif)
 
 Enemies can use teleporter entrances when they are hacked.
 
-![_image_2_](../assets/kits/engineer/_image_2_.jpg_)
+![Teleporter - Hack](../assets/kits/engineer/Engineer%20-%20Teleporter%20Hack.gif)
 
 <!-- tabs:end -->
 
@@ -129,7 +128,7 @@ Enemies can use teleporter entrances when they are hacked.
 ## Metal Scrapper
 Obtain `{{ kits.engineer.data.ENGINEER_KILL_ELIMINATION_REWARD }}` metal after an elimination.
 
-![_image_1_](../assets/kits/engineer/_image_1_.jpg_)
+![Metal Scrapper](../assets/kits/engineer/Engineer%20-%20Metal%20Scrapper.gif)
 
 <!-- tabs:end -->
 <br />

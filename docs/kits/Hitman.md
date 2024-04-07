@@ -34,17 +34,17 @@
 ## Dart Shooter
 Shoot enemies with your Dark Shooter to deal damage. When enemies take damage from hitman darts, they will be tagged. Tags are used to trigger debuffs.
 
-![_image_1_](../assets/kits/hitman/_image_1_.jpg_)
+![Dart Shooter - Tag](../assets/kits/hitman/Hitman%20-%20Dart%20Shooter.gif)
 
 Left click your Dart Shooter to trigger a debuff. The debuff applied is determined by the currently selected effect. The player can have up to `{{ kits.hitman.data.HITMAN_MAX_TAGS }}` tags and trigger debuffs up to `{{ kits.hitman.data.HITMAN_MAX_TAG_TRIGGERS }}` times. Tags will disappear when the player or the enemy dies.
 
-![_image_1_](../assets/kits/hitman/_image_1_.jpg_)
+![Dart Shooter - Trigger](../assets/kits/hitman/Hitman%20-%20Dart%20Shooter%20Activate.gif)
 
 #### **Select Debuff**
 ## Select Debuff
 Right click or left click to cycle between debuffs. 
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Select Debuff](../assets/kits/hitman/Hitman%20-%20Select%20Debuff.gif)
 
 The debuffs are as follows: 
 
@@ -53,25 +53,25 @@ The debuffs are as follows:
 ## Darkness
 Gives the darkness effect for `{{ kits.hitman.data.HITMAN_DARKNESS_DURATION }}` ticks.
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Darkness](../assets/kits/hitman/Hitman%20-%20Darkness.gif)
 
 #### **Glowing**
 ## Glowing
 Gives the glowing effect for `{{ kits.hitman.data.HITMAN_GLOWING_DURATION }}` ticks and stuns enemies for `{{ kits.hitman.data.HITMAN_STUN_DURATION }}` ticks.
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Glowing](../assets/kits/hitman/Hitman%20-%20Glowing.gif)
 
 #### **Weakness**
 ## Weakness
 Gives the weakness effect for `{{ kits.hitman.data.HITMAN_WEAKNESS_DURATION }}` ticks.
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Weakness](../assets/kits/hitman/Hitman%20-%20Weakness.gif)
 
 #### **Harming**
 ## Harming
 Damages the enemy for `{{ kits.hitman.data.HITMAN_INSTANT_DAMAGE_DAMAGE }}` HP.
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Harming](../assets/kits/hitman/Hitman%20-%20Harming.gif)
 <!-- tabs:end -->
 
 <!-- tabs:end -->

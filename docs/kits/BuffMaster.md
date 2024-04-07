@@ -34,7 +34,7 @@
 ## Buff
 Right click to buff all allies within `{{ kits.buff_master.data.BUFF_MASTER_BUFF_RADIUS }}` meters. The buff applied will be determined by the selected buff. The ability has a base cooldown of `{{ kits.buff_master.data.BUFF_MASTER_BUFF_BASE_COOLDOWN }}` ticks and will increase by `{{ kits.buff_master.data.BUFF_MASTER_BUFF_PER_PLAYER_COOLDOWN }}`ticks per player and `{{ kits.buff_master.data.BUFF_MASTER_BUFF_PER_MOB_COOLDOWN }}`ticks per mob affected. The max cooldown is `{{ kits.buff_master.data.BUFF_MASTER_BUFF_MAX_COOLDOWN }}` ticks.
 
-![Buff Master - Buff](../assets/kits/buff_master/Buff%20Master%20-%20Buff.gif)
+![Buff Master - Buff](../assets/kits/buff_master/Buff%20Master%20-%20Absorption.gif)
 
 #### **Select Buff**
 ## Select Buff
@@ -49,25 +49,25 @@ The Available effects are as follows:
 ## Regeneration
 Gives the regeneration effect *(level: `{{ kits.buff_master.data.BUFF_MASTER_REGENERATION_LEVEL }}`)* for `{{ kits.buff_master.data.BUFF_MASTER_REGENERATION_DURATION }}` ticks.
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Buff Master - Regeneration](../assets/kits/buff_master/Buff%20Master%20-%20Regeneration.gif)
 
 #### **Absorption**
 ## Absorption
 Gives the absorption effect *(level: `{{ kits.buff_master.data.BUFF_MASTER_ABSORPTION_LEVEL }}`)* for `{{ kits.buff_master.data.BUFF_MASTER_ABSORPTION_DURATION }}` ticks.
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Buff Master - Absorption](../assets/kits/buff_master/Buff%20Master%20-%20Absorption.gif)
 
 #### **Speed**
 ## Speed
 Gives the speed effect *(level: `{{ kits.buff_master.data.BUFF_MASTER_SPEED_LEVEL }}`)* for `{{ kits.buff_master.data.BUFF_MASTER_SPEED_DURATION }}` ticks.
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Buff Master - Speed](../assets/kits/buff_master/Buff%20Master%20-%20Speed.gif)
 
 #### **Resistance**
 ## Resistance
 Gives the resistance effect *(level: `{{ kits.buff_master.data.BUFF_MASTER_RESISTANCE_LEVEL }}`)* for `{{ kits.buff_master.data.BUFF_MASTER_RESISTANCE_DURATION }}` ticks.
 
-![_image_2_](../assets/kits/hitman/_image_2_.jpg_)
+![Buff Master - Buff](../assets/kits/buff_master/Buff%20Master%20-%20Resistance.gif)
 <!-- tabs:end -->
 
 <!-- tabs:end -->

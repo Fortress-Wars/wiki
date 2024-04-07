@@ -33,13 +33,13 @@
 ## Rage
 Right click to enter rage mode for `{{ kits.hulk.data.HULK_RAGE_FORM_DURATION }}` ticks. When entering rage mode, all armor will be replaced with diamond armor. The bow be replaced with a sword. The player will exit rage mode automatically when the duration ends.
 
-![_image_1_](../assets/kits/hulk/_image_1_.jpg_)
+![Rage](../assets/kits/hulk/Hulk%20-%20Rage.gif)
 
 #### **Relax**
 ## Relax
 Right click to enter relax mode. The diamond armor will be placed with leather armor and the sword will be replaced with a bow.
 
-![_image_2_](../assets/kits/hulk/_image_2_.jpg_)
+![Relax](../assets/kits/hulk/Hulk%20-%20Relax.gif)
 
 <!-- tabs:end -->
 
@@ -49,7 +49,7 @@ Right click to enter relax mode. The diamond armor will be placed with leather a
 ## Kill Chain
 While the player is in rage mode, every elimination extends the duration of rage. *(Final Blow: `{{ kits.hulk.data.HULK_RAGE_FORM_KILL_EXTENSION }}` ticks, Assist: `{{ kits.hulk.data.HULK_RAGE_FORM_ASSIST_EXTENSION }}` ticks)*
 
-![_image_1_](../assets/kits/hulk/_image_1_.jpg_)
+![Kill Chain](../assets/kits/hulk/Hulk%20-%20Kill%20Chain.gif)
 <!-- tabs:end -->
 <br />
 
