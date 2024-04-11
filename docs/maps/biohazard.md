@@ -18,7 +18,9 @@
 <br />  
 
 # Map Galley
-![Biohazard - Beacon](../assets/maps/biohazard/ '')
+![Biohazard - Beacon](../assets/maps/biohazard/biohazard-beacon.gif '')
+![Biohazard - Spawn](../assets/maps/biohazard/biohazard-spawn.gif '')
+![Biohazard - Middle](../assets/maps/biohazard/biohazard-middle.gif '')
 
 # Achievements
 ***

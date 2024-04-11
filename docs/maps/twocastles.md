@@ -18,7 +18,9 @@
 <br />  
 
 # Map Galley
-![2castles - Beacon](../assets/maps/2castles/ '')
+![2castles - Beacon](../assets/maps/2castles/twocastles%20-%20beacon.gif 'Beacon')
+![2castles - Spawn](../assets/maps/2castles/twocastles%20-%20spawn%20room.gif 'Spawn')
+![2castles - Middle](../assets/maps/2castles/two%20castles%20-%20middle.gif 'Middle')
 
 # Achievements
 ***

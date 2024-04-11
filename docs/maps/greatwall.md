@@ -9,7 +9,7 @@
 # Overview
 ***
 - **Introduced:** v1.7.0
-- **Description:** ___
+- **Description:** A symmetrical map divided by a Wall
 - **Gamemode:** Classic
 - **Map Type:** Build (B)
 - **Size:** Large
@@ -18,7 +18,9 @@
 <br />  
 
 # Map Galley
-![Great Wall - Beacon](../assets/maps/greatwall/ '')
+![Great Wall - Beacon](../assets/maps/greatwall/greatwall%20-%20beacon.gif 'Beacon')
+![Great Wall - Middle](../assets/maps/greatwall/greatwall%20-%20mid.gif 'Middle')
+![Great Wall - Sponges](../assets/maps/greatwall/greatwall%20-%20sponges.gif 'Sponges')
 
 # Achievements
 ***
