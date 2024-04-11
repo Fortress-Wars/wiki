@@ -9,7 +9,7 @@
 # Overview
 ***
 - **Introduced:** v1.8.0
-- **Description:** ___
+- **Description:** A recreation of the Team Fortress 2 map
 - **Gamemode:** King of the Hill
 - **Map Type:** Non-Build (NB)
 - **Size:** Medium

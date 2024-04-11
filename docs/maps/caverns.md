@@ -18,7 +18,9 @@
 <br />  
 
 # Map Galley
-![Caverns - Beacon](../assets/maps/caverns/ '')
+![Caverns - Beacon](../assets/maps/caverns/caverns-beacon.gif 'Beacon')
+![Caverns - Middle](../assets/maps/caverns/caverns-middle.gif 'Middle')
+![Caverns - Flank](../assets/maps/caverns/caverns-flank.gif 'Flank Route')
 
 # Achievements
 ***
