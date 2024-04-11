@@ -18,7 +18,9 @@
 <br />  
 
 # Map Galley
-![Clay - Beacon](../assets/maps/clay/ '')
+![Clay - Beacon](../assets/maps/clay/clay-beacon.gif 'Beacon')
+![Clay - Tower](../assets/maps/clay/clay-tower.gif 'Tower')
+![Clay - Middle](../assets/maps/clay/clay-middle.gif 'Middle')
 
 # Achievements
 ***
