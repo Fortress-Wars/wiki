@@ -2,10 +2,20 @@
   margin-left: 20px;
 }
 
-p {
-  width: 50%;
-}
-
 img {
   width: 100%
+}
+
+/* Large devices (laptops/desktops, 992px and up) & Smaller */
+@media only screen and (min-width: 992px) {
+  p {
+    width: 100%;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  p {
+    width: 50%;
+  }
 }

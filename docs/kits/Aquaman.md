@@ -10,7 +10,7 @@
 - **Introduced:** v1.7.0
 - **Description:** A melee and ranged damage kit that excels in water environments.
 - **Role:** Damage
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 
@@ -25,7 +25,7 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
@@ -87,7 +87,7 @@ While in water, deal `+{{ kits.aquaman.data.AQUAMAN_TRIDENT_WATER_SYNERGY_DAMAGE
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.aquaman.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.aquaman.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | AQUAMAN_TRIDENT_MELEE_DAMAGE | `{{ kits.aquaman.data.AQUAMAN_TRIDENT_MELEE_DAMAGE }}` | The base melee damage of the trident. |
 | AQUAMAN_TRIDENT_MELEE_SPEED | `{{ kits.aquaman.data.AQUAMAN_TRIDENT_MELEE_SPEED }}` | The base melee speed of the trident. |
 | AQUAMAN_ONE_WITH_THE_SEA_REGENERATION_AMPLIFIER | `{{ kits.aquaman.data.AQUAMAN_ONE_WITH_THE_SEA_REGENERATION_AMPLIFIER }}` | The level of the regeneration potion effect that the One With The Sea passive gives. (level 1 starts at value 0) |

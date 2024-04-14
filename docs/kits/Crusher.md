@@ -10,7 +10,7 @@
 - **Introduced:** v1.8.0
 - **Description:** A damage kit that summons anvils to crush your enemies.
 - **Role:** Damage
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 
@@ -25,7 +25,7 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
@@ -69,7 +69,7 @@ Anvils will damage engineer blocks.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.crusher.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.crusher.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | CRUSHER_ANVIL_DIRECT_DAMAGE | `{{ kits.crusher.data.CRUSHER_ANVIL_DIRECT_DAMAGE }}` | The damage dealt by a direct anvil hit. |
 | CRUSHER_ANVIL_INDIRECT_DAMAGE | `{{ kits.crusher.data.CRUSHER_ANVIL_INDIRECT_DAMAGE }}` | The damage dealt by an indirect anvil hit. |
 | CRUSHER_ANVIL_SUMMON_HEIGHT | `{{ kits.crusher.data.CRUSHER_ANVIL_SUMMON_HEIGHT }}` | The distance above the target to determine the actual anvil summon location.  |
@@ -81,7 +81,7 @@ Anvils will damage engineer blocks.
 | CRUSHER_ANVIL_COOLDOWN | `{{ kits.crusher.data.CRUSHER_ANVIL_COOLDOWN }}` | The cooldown, in ticks, for the Crusher ability. |
 | CRUSHER_ANVIL_SUMMON_ATTEMPTS | `{{ kits.crusher.data.CRUSHER_ANVIL_SUMMON_ATTEMPTS }}` | The number of attempts to summon an anvil. |
 | CRUSHER_ANVIL_SUMMON_POINT_RADIUS | `{{ kits.crusher.data.CRUSHER_ANVIL_SUMMON_POINT_RADIUS }}` | The radius of a summon point used for ray tracing. |
-| CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER | `{{ kits.crusher.data.CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER }}` | The self damage multipler of an anvil when hitting the player. |
+| CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER | `{{ kits.crusher.data.CRUSHER_ANVIL_SELF_DAMAGE_MULTIPLIER }}` | The self damage multiplier of an anvil when hitting the player. |
 | CRUSHER_ANVIL_IGNORE_DAMAGE_TICKS | `{{ kits.crusher.data.CRUSHER_ANVIL_IGNORE_DAMAGE_TICKS }}` | Determines if the anvil should ignore invulnerability frames. |
 | CRUSHER_ANVIL_TARGET_ENEMIES | `{{ kits.crusher.data.CRUSHER_ANVIL_TARGET_ENEMIES }}` | Determines if the Crusher ability should target enemies. |
 | CRUSHER_SWORD_DAMAGE | `{{ kits.crusher.data.CRUSHER_SWORD_DAMAGE }}` | The base damage of the sword. |
