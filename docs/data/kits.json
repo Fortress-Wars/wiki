@@ -340,6 +340,20 @@
         "KANGAROO_STOMP_RADIUS": 3
       }
     },
+    "master": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "MASTER_SWORD_DAMAGE": 6,
+        "MASTER_SWORD_SPEED": 4,
+        "MASTER_MINIONS_MAX_CREEPERS": 4,
+        "MASTER_MINIONS_SPAWN_CREEPER_COOLDOWN": 80,
+        "MASTER_MINIONS_CREEPER_DURATION": 900,
+        "MASTER_MINIONS_CREEPER_DAMAGE": 9,
+        "MASTER_MINIONS_CHARGED_CREEPER_DAMAGE": 12,
+        "MASTER_MINIONS_CREEPER_MAX_HEALTH": 8,
+        "MASTER_MINIONS_CREEPER_EXPLOSION_RADIUS": 8
+      }
+    },
     "medic": {
       "data": {
         "MAX_HEALING_POTIONS": 7,
