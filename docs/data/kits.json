@@ -340,6 +340,20 @@
         "KANGAROO_STOMP_RADIUS": 3
       }
     },
+    "knight": {
+      "data": {
+        "MAX_HEALING_POTIONS": 5,
+        "KNIGHT_SWORD_DAMAGE": 5,
+        "KNIGHT_SWORD_SPEED": 4,
+        "KNIGHT_FORTIFY_SHIELD_DAMAGE_PERCENTAGE": 75,
+        "KNIGHT_ROYAL_GUARD_REDIRECTED_DAMAGE_PERCENTAGE": 50,
+        "KNIGHT_DAMAGE_DEFLECTION_PERCENTAGE": 50,
+        "KNIGHT_FORTIFY_COOLDOWN": 300,
+        "KNIGHT_FORTIFY_DURATION": 200,
+        "KNIGHT_FORTIFY_RADIUS": 8,
+        "KNIGHT_FORTIFY_RESET_SHIELD_DURABILITY": true
+      }
+    },
     "medic": {
       "data": {
         "MAX_HEALING_POTIONS": 7,
