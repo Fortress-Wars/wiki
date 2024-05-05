@@ -33,15 +33,15 @@
 ## Fortify
 When the ability is used, the player's shield becomes stronger. The shield will take `{{ kits.knight.data.KNIGHT_FORTIFY_SHIELD_DAMAGE_PERCENTAGE }}%` of the incoming damage and all damage types that would normally break or ignore the shield, will damage the shield instead. 
 
-![Activate and take bomber bomb](../assets/kits/knight/_image_1_.jpg_) 
+![Knight - Fortify Block](../assets/kits/knight/Knight%20-%20Fortify%20Block.gif) 
 
 If `KNIGHT_FORTIFY_RESET_SHIELD_DURABILITY` is set to `true`, then the player's shield durability will reset upon activating this ability.
 
-![Shield Durability Reset](../assets/kits/knight/_image_1_.jpg_)
+![Knight - Fortify Reset Shield](../assets/kits/knight/Knight%20-%20Fortify%20Reset%20Shield.gif)
 
 When the player's shield breaks, fortify will wear off.
 
-![Foritfy Shield Break](../assets/kits/knight/_image_1_.jpg_)
+![Knight - Fortify Break Shield](../assets/kits/knight/Knight%20-%20Fortify%20Shield%20Break.gif)
 
 <!-- tabs:end -->
 
@@ -51,13 +51,13 @@ When the player's shield breaks, fortify will wear off.
 ## Royal Guard
 While `Fortify` is active and the player is blocking, the player will take `{{ kits.knight.data.KNIGHT_ROYAL_GUARD_REDIRECTED_DAMAGE_PERCENTAGE }}%` of damage to nearby allies in a `{{ kits.knight.data.KNIGHT_FORTIFY_RADIUS }}` meter radius.
 
-![_image_2_](../assets/kits/knight/_image_2_.jpg_)
+![Knight - Royal Guard](../assets/kits/knight/Knight%20-%20Royal%20Guard.gif)
 
 #### **Damage Deflection**
 ## Damage Deflection
 While `Fortify` is active and the player is blocking, when enemies are within `{{ kits.knight.data.KNIGHT_FORTIFY_RADIUS }}` meters of the player and they damage the player's shield, `{{ kits.knight.data.KNIGHT_DAMAGE_DEFLECTION_PERCENTAGE }}%` of the incoming damage will be deflected at them.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+![Knight - Damage Deflection](../assets/kits//knight/Knight%20-%20Damage%20Deflection.gif)
 
 <!-- tabs:end -->
 
