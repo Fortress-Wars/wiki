@@ -3,7 +3,7 @@
 
 ***
 
-#### ![aquarius-icon](../assets/kits/aquarius/aquarius-icon.jpg)
+#### ![aquarius-icon](../assets/icons/aquarius-icon.jpg)
 
 # Overview
 ***

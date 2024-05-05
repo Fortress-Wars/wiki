@@ -3,7 +3,7 @@
 
 ***
 
-#### ![brute-icon](../assets/kits/brute/brute-icon.jpg)
+#### ![brute-icon](../assets/icons/brute-icon.jpg)
 
 # Overview
 ***

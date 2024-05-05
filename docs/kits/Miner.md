@@ -3,7 +3,7 @@
 
 ***
 
-#### ![miner-icon](../assets/kits/miner/miner-icon.jpg)
+#### ![miner-icon](../assets/icons/miner-icon.jpg)
 
 # Overview
 ***

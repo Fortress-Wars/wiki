@@ -1,14 +1,14 @@
 
-# Default
+# None
 
 ***
 
-#### ![default-icon](../assets/icons/default-icon.jpg)
+#### ![none-icon](../assets/icons/none-icon.jpg)
 
 # Overview
 ***
 - **Introduced:** v1.7.0
-- **Description:** A kit with standard armor and standard weapons.
+- **Description:** A variation of kit Default that requires more skill..
 - **Role:** Damage
 - **How to Unlock:** Unlocked by Default.
 
@@ -16,9 +16,9 @@
 
 # Gear
 ***
-- Chainmail Chestplate
-- Chainmail Leggings
-- Chainmail Boots
+- Leather Chestplate
+- Leather Leggings
+- Leather Boots
 - Iron Sword
 - Bow
 - {{ kits.default.data.MAX_HEALING_POTIONS }} Healing Potions

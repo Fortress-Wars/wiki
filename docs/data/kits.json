@@ -4,6 +4,30 @@
     "MAX_MANA_POTIONS": "Maximum number of mana potions the player can carry."
   },
   "kits": {
+    "templte": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0
+      }
+    },
     "aquaman": {
       "data": {
         "MAX_HEALING_POTIONS": 7,
@@ -368,28 +392,28 @@
         "MASTER_MINIONS_CREEPER_EXPLOSION_RADIUS": 8
       }
     },
-    "medic": {
+    "mathematician": {
       "data": {
         "MAX_HEALING_POTIONS": 7,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0
+        "MATHEMATICIAN_SWORD_DAMAGE": 5,
+        "MATHEMATICIAN_SWORD_SPEED": 4,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_DURATION": 12000,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_DAMAGE": 6,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_ALLY_HEALING": 6,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_ENEMY_HEALING": 4,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_MAX_ARGUMENT_MAGNITUDE": 12,
+        "MATHEMATICIAN_WORKSHEETS_PER_PLAYER": 15,
+        "MATHEMATICIAN_WORKSHEET_COUNT": 20,
+        "MATHEMATICIAN_WORKSHEET_REGENERATION_RATE": 15,
+        "MATHEMATICIAN_WORKSHEET_THROW_COOLDOWN": 2,
+        "MATHEMATICIAN_WORKSHEET_SOLVE_COOLDOWN": 100,
+        "MATHEMATICIAN_WORKSHEET_EFFECT_DURATION": 600,
+        "MATHEMATICIAN_WORKSHEET_EFFECT_LEVEL": 0,
+        "MATHEMATICIAN_WORKSHEET_VELOCITY_MULTIPLIER": 2,
+        "MATHEMATICIAN_WORKSHEET_DISTRIBUTE_INCREMENT_AMOUNT": 1,
+        "MATHEMATICIAN_WORKSHEET_DISTRIBUTE_DECREMENT_AMOUNT": 1,
+        "MATHEMATICIAN_WORKSHEET_DISPENSE_AMOUNT": 10,
+        "MATHEMATICIAN_WORKSHEET_ELIMINATION_REWARD": 20
       }
     },
     "miner": {
@@ -409,6 +433,13 @@
         "MINER_SHOVEL_DAMAGE": 6,
         "MINER_SHOVEL_SPEED": 4,
         "MINER_UPGRADED_SHOVEL_EFFICIENCY_LEVEL": 5
+      }
+    },
+    "none": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "NONE_SWORD_DAMAGE": 6,
+        "NONE_SWORD_SPEED": 4
       }
     },
     "prometheus": {

@@ -3,7 +3,7 @@
 
 ***
 
-#### ![prometheus-icon](../assets/kits/prometheus/prometheus-icon.jpg)
+#### ![prometheus-icon](../assets/icons/prometheus-icon.jpg)
 
 # Overview
 ***
