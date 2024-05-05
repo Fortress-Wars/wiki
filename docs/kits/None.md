@@ -33,13 +33,13 @@
 ## Sword
 Use your sword to deal damage to enemies.
 
-![Sword](../assets/kits/default/Default%20-%20Sword.gif)
+![None - Melee](../assets/kits/none/None%20-%20Melee.gif)
 
 #### **Bow**
 ## Bow
 Use your bow to deal damage to enemies from a distance.
 
-![Bow](../assets/kits/default/Default%20-%20Bow.gif)
+![None - Bow](../assets/kits/none/None%20-%20Bow.gif)
 
 <!-- tabs:end -->
 <br /> 
