@@ -32,35 +32,35 @@
 ## Creeper Minion Egg
 Right click a block to spawn a creeper minion. Creepers minons can be spawned every `{{ kits.master.data.MASTER_MINIONS_SPAWN_CREEPER_COOLDOWN }}` ticks.
 
-![Creeper Spawn](../assets/kits/master/_image_1_.jpg_)
+![Master - Creeper Spawn](../assets/kits/master/Master%20-%20Creeper%20Spawn.gif)
 
 The player can have a maximum of `{{ kits.master.data.MASTER_MINIONS_MAX_CREEPERS }}` creeper minions alive once.
 
-![Creeper Spawn at Max](../assets/kits/master/_image_1_.jpg_)
+![Master - Creeper Spawn at Max](../assets/kits/master/Master%20-%20Creeper%20Spawn%20at%20Max.gif)
 
 #### **Creeper Minion**
 ## Creeper Minion
 Creepers have `{{ kits.master.data.MASTER_MINIONS_CREEPER_MAX_HEALTH }}` health and will deal `{{ kits.master.data.MASTER_MINIONS_CREEPER_DAMAGE }}` damage when they explode. The explosion radius is `{{ kits.master.data.MASTER_MINIONS_CREEPER_EXPLOSION_RADIUS}}` meters.
 
-![Creeper Targeting & Explode](../assets/kits/master/_image_1_.jpg_)
+![Master - Creeper Targeting & Explode](../assets/kits/master/Master%20-%20Creeper%20Targeting%20&%20Explode.gif)
 
 If the creeper is struck by lightning, it will turn into a super charged creeper minion. Super charged creeper minions deal `{{ kits.master.data.MASTER_MINIONS_CHARGED_CREEPER_DAMAGE }}` damage when they explode.
 
-![Lightning Strike & Explode](../assets/kits/master/_image_1_.jpg_)
+![Master - Lightning Strike & Explode](../assets/kits/master/Master%20-%20Lightning%20Strike%20&%20Explode.gif)
 
 When creeper minons explode, they will explode builder bricks, jumper translocators, cobwebs.
 
-![Explode Builder Bricks](../assets/kits/master/_image_1_.jpg_)
+![Master - Explode Builder Bricks](../assets/kits/master/Master%20-%20Explode%20Builder%20Bricks.gif)
 
 When creeper minions explode, they will damage engineer blocks.
 
-![Explode Engineer Blocks](../assets/kits/master/_image_1_.jpg_)
+![Master - Explode Engineer Blocks](../assets/kits/master/Master%20-%20Explode%20Engineer%20Blocks.gif)
 
 If a creeper has a potion effect and it explodes, the potion effects will linger. Positive effects will affect allies, and negative effects will affect enemies.
 
-![Positive Effect](../assets/kits/master/_image_1_.jpg_)
+![Master - Creeper Positive Effect](../assets/kits/master/Master%20-%20Creeper%20Positive%20Effect.gif)
 
-![Negative Effect](../assets/kits/master/_image_1_.jpg_)
+![Master - Creeper Negative Effect](../assets/kits/master/Master%20-%20Creeper%20Negative%20Effect.gif)
 
 <!-- tabs:end -->
 <br />
