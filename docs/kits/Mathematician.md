@@ -32,13 +32,13 @@
 ## Distribute Worksheets
 Left click to distribute math worksheets. When players pick them up, it will increase their held worksheet count by `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEET_DISTRIBUTE_INCREMENT_AMOUNT }}`. Players can hold a maximum of `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEETS_PER_PLAYER }}` worksheets. In addition, worksheets will expire after `{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_DURATION }}` ticks. This duration resets whenever a new worksheet is picked up. Worksheets will be removed if they mathematician dies, the player holding them dies, the player that is holding them is cleansed, or untill all worksheet problems are answered.
 
-![Mathematician - Distribute Worksheets](../assets/kits/mathematician/_image_1_.jpg_)
+![Mathematician - Distribute Worksheets](../assets/kits/mathematician/Mathematician%20-%20Distribute%20Worksheets.gif)
 
 #### **Solve Practice Problems**
 ## Solve Practice Problems
 Right click to start solving problems. Practice problems can be Addition, Subtraction, Multiplication, or Division problems. Problems can include negative numbers. The initial problem arguments are created using a number between `-{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_MAX_ARGUMENT_MAGNITUDE }}` and `{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_MAX_ARGUMENT_MAGNITUDE }}`.
 
-![Mathematician - Generate Practice Problem](../assets/kits/mathematician/_image_2_.jpg_)
+![Mathematician - Generate Practice Problem](../assets/kits/mathematician/Mathematician%20-%20Generate%20Practice%20Problem.gif)
 
 Players can generate a new problem every `{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_GENERATE_COOLDOWN }}` ticks.
 
@@ -47,29 +47,29 @@ Players can generate a new problem every `{{ kits.mathematician.data.MATHEMATICI
 ## Answer Correctly
 When the player answers a problem correctly, they will receive a random [buff](#buffs). The player will also deal `{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_DAMAGE }}` damage to all enemies with worksheets and restore `{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_ALLY_HEALING }}` hp to allies with worksheets.
 
-![Mathematician - Answer Correctly](../assets/kits/mathematician/_image_2_.jpg_)
+![Mathematician - Answer Correctly](../assets/kits/mathematician/Mathematician%20-%20Answer%20Correctly.gif)
 
-![Mathematician - Damage Enemies](../assets/kits/mathematician/_image_2_.jpg_)
+![Mathematician - Damage Enemies](../assets/kits/mathematician/Mathematician%20-%20Damage%20Enemies.gif)
 
-![Mathematician - Heal Allies](../assets/kits/mathematician/_image_2_.jpg_)
+![Mathematician - Heal Allies](../assets/kits/mathematician/Mathematician%20-%20Heal%20Allies.gif)
 
 #### **Answer Incorrectly**
 ## Answer Incorrectly
 When the player answers a problem incorrectly, they will receive a random [debuff](#debuffs). The player will also restore `{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_ENEMY_HEALING }}` hp to enemies with worksheets.
 
-![Mathematician - Answer Incorrectly](../assets/kits/mathematician/_image_2_.jpg_)
+![Mathematician - Answer Incorrectly](../assets/kits/mathematician/Mathematician%20-%20Answer%20Incorrectly.gif)
 
-![Mathematician - Heal Enemies](../assets/kits/mathematician/_image_2_.jpg_)
+![Mathematician - Heal Enemies](../assets/kits/mathematician/Mathematician%20-%20Heal%20Enemies.gif)
 
 <!-- tabs:end -->
 
 When the player answers a problem, all of the players that are affected by the outcome will have their held worksheets count reduced by `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEET_DISTRIBUTE_DECREMENT_AMOUNT }}`.
 
-![Mathematician - Reduce Distributed Worksheet Count](../assets/kits/mathematician/_image_2_.jpg_)
+![Mathematician - Reduce Distributed Worksheet Count](../assets/kits/mathematician/Mathematician%20-%20Reduce%20Distributed%20Worksheet%20Count.gif)
 
 Players will receive `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEET_DISPENSE_AMOUNT }}` worksheets from [Engineer Dispensers](Engineer#dispensers).
 
-![Mathematician - Worksheets From Engineer Dispensers](../assets/kits/mathematician/_image_2_.jpg_)
+![Mathematician - Worksheets From Engineer Dispensers](../assets/kits/mathematician/Mathematician%20-%20Worksheets%20From%20Engineer%20Dispensers.gif)
 
 <!-- tabs:end -->
 
@@ -79,7 +79,7 @@ Players will receive `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEET_DISPENS
 ## Math Tutor
 When eliminating an enemy, the player will receive a random [buff](#buffs) and receive `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEET_ELIMINATION_REWARD }}` additional worksheets.
 
-![Mathematician - Math Tutor](../assets/kits/mathematician/_image_1_.jpg_)
+![Mathematician - Math Tutor](../assets/kits/mathematician/Mathematician%20-%20Math%20Tutor.gif)
 
 <!-- tabs:end -->
 
