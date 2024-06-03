@@ -49,7 +49,7 @@ When the player's shield breaks, fortify will wear off.
 <!-- tabs:start -->
 #### **Royal Guard**
 ## Royal Guard
-While `Fortify` is active and the player is blocking, the player will take `{{ kits.knight.data.KNIGHT_ROYAL_GUARD_REDIRECTED_DAMAGE_PERCENTAGE }}%` of damage to nearby allies in a `{{ kits.knight.data.KNIGHT_FORTIFY_RADIUS }}` meter radius.
+While `Fortify` is active and the player is blocking, the player will take `{{ kits.knight.data.KNIGHT_ROYAL_GUARD_REDIRECTED_DAMAGE_PERCENTAGE }}%` of the damage from nearby allies in a `{{ kits.knight.data.KNIGHT_FORTIFY_RADIUS }}` meter radius.
 
 ![Knight - Royal Guard](../assets/kits/knight/Knight%20-%20Royal%20Guard.gif)
 
