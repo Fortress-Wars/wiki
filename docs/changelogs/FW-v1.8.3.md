@@ -5,6 +5,7 @@ _Release Date: July 9, 2024_
 - Default Gamerule Configuration
 - Shop Command
 - Server Tips and Messages
+- Technical Changes
 - Bug Fixes
 
 ## Kit Tags
@@ -21,6 +22,11 @@ _Release Date: July 9, 2024_
 ## Server Tips and Messages
 - New feature to periodically broadcast messages to all players on the server. This includes tips, server information, and news.
 - When players have enough credits for a new kit, a message sent to the player notifying them that they can purchace a new kit.
+
+## Technical Changes
+- Updated view-distance to 16 from 10
+- Updated simulation-distance to 16 from 10
+- Updated entity-tracking-range from 128 to 256
 
 ## Bug Fixes
 - Fixed kit Mercy 1000 final blows achievement progress sometimes showing after every elimination.
