@@ -1,5 +1,5 @@
 _Release Date: December 12, 2023_
-# Overview
+# v1.8.0
 - New Kits!
 - New Maps!
 - New Cosmetics!
