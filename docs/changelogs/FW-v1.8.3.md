@@ -17,7 +17,7 @@ _Release Date: July 9, 2024_
 
 ## Server Tips and Messages
 - New feature to periodically broadcast messages to all players on the server. This includes tips, server information, and news.
-- When players have enough credits for a new kit, a message sent to the player notifying them that they can purchace a new kit.
+- When players have enough credits for a new kit, a message sent to the player notifying them that they can purchase a new kit.
 
 ## Default Gamerule Configuration
 - Like other custom gamerules, settings can now be applied to the default gamerule.
