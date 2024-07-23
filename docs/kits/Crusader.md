@@ -3,7 +3,7 @@
 
 ***
 
-#### ![crusader-icon](../assets/kits/crusader/crusader-icon.jpg)
+#### ![crusader-icon](../assets/icons/crusader-icon.jpg)
 
 # Overview
 ***

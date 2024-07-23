@@ -4,6 +4,30 @@
     "MAX_MANA_POTIONS": "Maximum number of mana potions the player can carry."
   },
   "kits": {
+    "templte": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0,
+        "": 0
+      }
+    },
     "aquaman": {
       "data": {
         "MAX_HEALING_POTIONS": 7,
@@ -354,28 +378,79 @@
         "KNIGHT_FORTIFY_RESET_SHIELD_DURABILITY": true
       }
     },
+    "master": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "MASTER_SWORD_DAMAGE": 6,
+        "MASTER_SWORD_SPEED": 4,
+        "MASTER_MINIONS_MAX_CREEPERS": 4,
+        "MASTER_MINIONS_SPAWN_CREEPER_COOLDOWN": 80,
+        "MASTER_MINIONS_CREEPER_DURATION": 900,
+        "MASTER_MINIONS_CREEPER_DAMAGE": 9,
+        "MASTER_MINIONS_CHARGED_CREEPER_DAMAGE": 12,
+        "MASTER_MINIONS_CREEPER_MAX_HEALTH": 8,
+        "MASTER_MINIONS_CREEPER_EXPLOSION_RADIUS": 8
+      }
+    },
+    "mathematician": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "MATHEMATICIAN_SWORD_DAMAGE": 5,
+        "MATHEMATICIAN_SWORD_SPEED": 4,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_DURATION": 12000,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_DAMAGE": 6,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_ALLY_HEALING": 6,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_ENEMY_HEALING": 4,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_MAX_ARGUMENT_MAGNITUDE": 12,
+        "MATHEMATICIAN_WORKSHEETS_PER_PLAYER": 15,
+        "MATHEMATICIAN_WORKSHEET_COUNT": 20,
+        "MATHEMATICIAN_WORKSHEET_REGENERATION_RATE": 15,
+        "MATHEMATICIAN_WORKSHEET_THROW_COOLDOWN": 2,
+        "MATHEMATICIAN_PRACTICE_PROBLEMS_GENERATE_COOLDOWN": 100,
+        "MATHEMATICIAN_WORKSHEET_EFFECT_DURATION": 600,
+        "MATHEMATICIAN_WORKSHEET_EFFECT_LEVEL": 0,
+        "MATHEMATICIAN_WORKSHEET_VELOCITY_MULTIPLIER": 2,
+        "MATHEMATICIAN_WORKSHEET_DISTRIBUTE_INCREMENT_AMOUNT": 1,
+        "MATHEMATICIAN_WORKSHEET_DISTRIBUTE_DECREMENT_AMOUNT": 1,
+        "MATHEMATICIAN_WORKSHEET_DISPENSE_AMOUNT": 10,
+        "MATHEMATICIAN_WORKSHEET_ELIMINATION_REWARD": 20
+      }
+    },
     "medic": {
       "data": {
         "MAX_HEALING_POTIONS": 7,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0,
-        "": 0
+        "MEDIC_SWORD_DAMAGE": 5,
+        "MEDIC_SWORD_SPEED": 4,
+        "MEDIC_HEALING_STONE_POTENCY": 1,
+        "MEDIC_HEALING_STONE_RADIUS": 6,
+        "MEDIC_HEALING_STONE_HEAL_RATE": 2,
+        "MEDIC_HEALING_STONE_SELF_HEAL_RATE": 10,
+        "MEDIC_ELECTROLYTES_REGENERATION_RATE": 1,
+        "MEDIC_ELECTROLYTES_REGENERATION_AMOUNT": 0.1,
+        "MEDIC_MAX_ELECTROLYTES": 10,
+        "MEDIC_POTION_SHARE_RADIUS": 6,
+        "MEDIC_POTION_SHARE_POTENCY": 5
+      }
+    },
+    "mercy": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "MERCY_STAFF_MELEE_DAMAGE": 1,
+        "MERCY_STAFF_MELEE_SPEED": 4,
+        "MERCY_STAFF_MELEE_KNOCKBACK": 1,
+        "MERCY_STAFF_BEAM_RANGE": 10,
+        "MERCY_STAFF_HEAL_POTENCY": 1,
+        "MERCY_STAFF_HEAL_RATE": 10,
+        "MERCY_STAFF_DAMAGING_AMOUNT": 1.5,
+        "MERCY_STAFF_DAMAGING_RATE": 20,
+        "MERCY_STAFF_DAMAGE_BUFF_PERCENTAGE": 20,
+        "MERCY_STAFF_DAMAGE_NERF_PERCENTAGE": 20,
+        "MERCY_SWITCH_MODE_COOLDOWN": 10,
+        "MERCY_STAFF_LINE_OF_SIGHT_THRESHOLD": 100,
+        "MERCY_STAFF_ATTACH_CHECK_RANGE": 8,
+        "MERCY_STAFF_ATTACH_CHECK_SIZE": 0.25,
+        "MERCY_STAFF_USE_COOLDOWN": 5,
+        "MERCY_STAFF_ACTIONBAR_SIZE": 20
       }
     },
     "miner": {
@@ -395,6 +470,13 @@
         "MINER_SHOVEL_DAMAGE": 6,
         "MINER_SHOVEL_SPEED": 4,
         "MINER_UPGRADED_SHOVEL_EFFICIENCY_LEVEL": 5
+      }
+    },
+    "none": {
+      "data": {
+        "MAX_HEALING_POTIONS": 7,
+        "NONE_SWORD_DAMAGE": 6,
+        "NONE_SWORD_SPEED": 4
       }
     },
     "prometheus": {

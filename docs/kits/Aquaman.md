@@ -3,7 +3,7 @@
 
 ***
 
-#### ![aquaman-icon](../assets/kits/aquaman/aquaman-icon.jpg)
+#### ![aquaman-icon](../assets/icons/aquaman-icon.jpg)
 
 # Overview
 ***

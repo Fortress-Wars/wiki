@@ -3,7 +3,7 @@
 
 ***
 
-#### ![default-icon](../assets/kits/default/default-icon.jpg)
+#### ![default-icon](../assets/icons/default-icon.jpg)
 
 # Overview
 ***

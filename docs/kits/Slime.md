@@ -3,7 +3,7 @@
 
 ***
 
-#### ![slime-icon](../assets/kits/slime/slime-icon.jpg)
+#### ![slime-icon](../assets/icons/slime-icon.jpg)
 
 # Overview
 ***

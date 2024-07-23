@@ -3,7 +3,7 @@
 
 ***
 
-#### ![soldier-icon](../assets/kits/soldier/soldier-icon.jpg)
+#### ![soldier-icon](../assets/icons/soldier-icon.jpg)
 
 # Overview
 ***
