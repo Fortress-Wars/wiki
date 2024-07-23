@@ -30,7 +30,7 @@
 <!-- tabs:start -->
 #### **Distribute Worksheets**
 ## Distribute Worksheets
-Left click to distribute math worksheets. When players pick them up, it will increase their held worksheet count by `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEET_DISTRIBUTE_INCREMENT_AMOUNT }}`. Players can hold a maximum of `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEETS_PER_PLAYER }}` worksheets. In addition, worksheets will expire after `{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_DURATION }}` ticks. This duration resets whenever a new worksheet is picked up. Worksheets will be removed if they mathematician dies, the player holding them dies, the player that is holding them is cleansed, or untill all worksheet problems are answered.
+Left click to distribute math worksheets. When players pick them up, it will increase their held worksheet count by `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEET_DISTRIBUTE_INCREMENT_AMOUNT }}`. Players can hold a maximum of `{{ kits.mathematician.data.MATHEMATICIAN_WORKSHEETS_PER_PLAYER }}` worksheets. In addition, worksheets will expire after `{{ kits.mathematician.data.MATHEMATICIAN_PRACTICE_PROBLEMS_DURATION }}` ticks. This duration resets whenever a new worksheet is picked up. Worksheets will be removed if they mathematician dies, the player holding them dies, the player that is holding them is cleansed, or until all worksheet problems are answered.
 
 ![Mathematician - Distribute Worksheets](../assets/kits/mathematician/Mathematician%20-%20Distribute%20Worksheets.gif)
 
