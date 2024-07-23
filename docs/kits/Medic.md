@@ -33,17 +33,17 @@
 ## Medic Healing Potions
 Left-click or right-click to use. Just like regular potions, medic healing potions will restore a certain amount of health to the player. In addition, when the player consumes a medic healing potion, they will also restore `{{ kits.medic.data.MEDIC_POTION_SHARE_POTENCY }}` health to all nearby allies in a `{{ kits.medic.data.MEDIC_POTION_SHARE_RADIUS }}` meter radius.
 
-![Medic - Medic Healing Potion Use](../assets/kits/medic/_image_1_.jpg_)
+![Medic - Medic Healing Potion Use](../assets/kits/medic/Medic%20-%20Medic%20Healing%20Potion%20Use.gif)
 
-![Medic - Medic Healing Potion Potion Share](../assets/kits/medic/_image_1_.jpg_)
+![Medic - Medic Healing Potion Potion Share](../assets/kits/medic/Medic%20-%20Medic%20Healing%20Potion%20Potion%20Share.gif)
 
 #### **Healing Stone**
 ## Healing Stone
 Right click and hold to use. The healing stone is used to heal nearby allies in a `{{ kits.medic.data.MEDIC_HEALING_STONE_RADIUS }}` meter radius. Using the healing stone converts [Electrolytes](#electrolytes) to health at a 1:1 ratio. The maximum number of electrolytes that can be converted in a single instance of healing is `{{ kits.medic.data.MEDIC_HEALING_STONE_POTENCY }}`. The player can use the healing stone ability every `{{ kits.medic.data.MEDIC_HEALING_STONE_HEAL_RATE }}` ticks. However, the player can only heal themselves once every `{{ kits.medic.data.MEDIC_HEALING_STONE_SELF_HEAL_RATE }}` ticks.
 
-![Medic - Healing Stone Allies](../assets/kits/medic/_image_2_.jpg_)
+![Medic - Healing Stone Allies](../assets/kits/medic/Medic%20-%20Healing%20Stone%20Allies.gif)
 
-![Medic - Healing Stone Self](../assets/kits/medic/_image_2_.jpg_)
+![Medic - Healing Stone Self](../assets/kits/medic/Medic%20-%20Healing%20Stone%20Self.gif)
 
 <!-- tabs:end -->
 
@@ -53,9 +53,9 @@ Right click and hold to use. The healing stone is used to heal nearby allies in 
 ## Electrolytes
 Electrolytes are used by the [Healing Stone](#healing-stone) ability to heal allies. The maximum number of electrolytes that a player can have is `{{ kits.medic.data.MEDIC_MAX_ELECTROLYTES }}` and the player regenerates `{{ kits.medic.data.MEDIC_ELECTROLYTES_REGENERATION_AMOUNT }}` electrolytes every `{{ kits.medic.data.MEDIC_ELECTROLYTES_REGENERATION_RATE }}` ticks.
 
-![Medic - Electrolytes Consume](../assets/kits/medic/_image_1_.jpg_)
+![Medic - Electrolytes Consume](../assets/kits/medic/Medic%20-%20Electrolytes%20Consume.gif)
 
-![Medic - Electrolytes Regenerate](../assets/kits/medic/_image_1_.jpg_)
+![Medic - Electrolytes Regenerate](../assets/kits/medic/Medic%20-%20Electrolytes%20Regenerate.gif)
 
 <!-- tabs:end -->
 <br />
