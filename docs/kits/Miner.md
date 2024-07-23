@@ -3,14 +3,14 @@
 
 ***
 
-#### ![miner-icon](../assets/kits/miner/miner-icon.jpg)
+#### ![miner-icon](../assets/icons/miner-icon.jpg)
 
 # Overview
 ***
 - **Introduced:** v1.7.0
 - **Description:** A utility kit with better mining tools.
 - **Role:** Utility
-- **How to Unlock:** Unlocked by Default
+- **How to Unlock:** Unlocked by Default.
 
 <br />  
 
@@ -26,7 +26,7 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
@@ -42,7 +42,8 @@ The upgraded axe can instantly break shields.
 
 <!-- tabs:end -->
 
-# Passives
+### Passives
+<!-- tabs:start -->
 #### **Beacon Breaker**
 ## Beacon Breaker
 Deal `+{{ kits.miner.data.BEACON_BREAKER_DAMAGE_ADDITIVE }}` damage to beacons.
@@ -55,6 +56,7 @@ Deal `+{{ kits.miner.data.MINER_ENGINEER_BLOCK_DAMAGE_ADDITIVE }}` damage to eng
 
 ![Beacon Breaker](../assets/kits/miner/Miner%20-%20Engineer%20Breaker.gif)
 
+<!-- tabs:end -->
 <br />  
 
 # Achievements
@@ -74,7 +76,7 @@ Deal `+{{ kits.miner.data.MINER_ENGINEER_BLOCK_DAMAGE_ADDITIVE }}` damage to eng
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.miner.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.miner.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | MINER_MINERS_FERVOR_DURATION | `{{ kits.miner.data.MINER_MINERS_FERVOR_DURATION }}` | The duration, in ticks, of the Miner's Fervor ability. |
 | MINER_MINERS_FERVOR_COOLDOWN | `{{ kits.miner.data.MINER_MINERS_FERVOR_COOLDOWN }}` | The cooldown, in ticks, of the Miner's Fervor ability. |
 | MINER_MINERS_FERVOR_HASTE_LEVEL | `{{ kits.miner.data.MINER_MINERS_FERVOR_HASTE_LEVEL }}` | The level of the haste effect provided by the Miner's Fervor ability. |

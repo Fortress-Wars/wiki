@@ -3,14 +3,14 @@
 
 ***
 
-#### ![soldier-icon](../assets/kits/soldier/soldier-icon.jpg)
+#### ![soldier-icon](../assets/icons/soldier-icon.jpg)
 
 # Overview
 ***
 - **Introduced:** v1.7.0
 - **Description:** A kit with a throwable grenade and standard armor and weapons.
 - **Role:** Damage
-- **How to Unlock:** Unlocked by Default
+- **How to Unlock:** Unlocked by Default.
 
 <br />  
 
@@ -21,38 +21,43 @@
 - Chainmail Leggings
 - Iron Sword
 - Grenade
-- 7 Healing Potions
+- {{ kits.soldier.data.MAX_HEALING_POTIONS }} Healing Potions
 
 <br />  
 
-# Active Abilities
+# Abilities
 ***
+### Actives
+<!-- tabs:start -->
+#### **Grenade**
 ## Grenade
-Right click to throw the grenade dealing damage and knockback to enemies.
+Right click to launch a grenade forward. When the grenade explodes, it will deal `{{ kits.soldier.data.SOLDIER_GRENADE_DAMAGE }}` damage and also deal knockback.
 
 ![Grenade 1](../assets/kits/soldier/Soldier%20-%20Grenade%20Enemy.gif)
 
-Grenades will damage/destroy engineer blocks.
+Grenades damage engineer blocks.
 
 ![Grenade 2](../assets/kits/soldier/Soldier%20-%20Grenade%20Sentry.gif)
 
-Grenades will destroy enemy builder bricks.
+Grenades destroy enemy builder bricks.
 
 ![Grenade 3](../assets/kits/soldier/Soldier%20-%20Grenade%20Bricks.gif)
 
-Grenades will destroy cobwebs.
+Grenades destroy cobwebs.
 
-![Grenade 4](../assets/kits/soldier/Soldier%20-%20Grenade%20Cobwebs.giff)
+![Grenade 4](../assets/kits/soldier/Soldier%20-%20Grenade%20Cobwebs.gif)
 
-Grenades will disable enemy player shields.
+Grenades disable enemy player shields.
 
 ![Grenade 5](../assets/kits/soldier/Soldier%20-%20Grenade%20Shield.gif)
 
+#### **Grenade Jump**
 ## Grenade Jump
 Use your grenade to launch yourself up.
 
 ![Grenade Jump](../assets/kits/soldier/Soldier%20-%20Grenade%20Jump.gif)
 
+<!-- tabs:end -->
 <br /> 
 
 # Achievements
@@ -74,8 +79,11 @@ Use your grenade to launch yourself up.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
+| MAX_HEALING_POTIONS | `{{ kits.soldier.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
+| SOLDIER_GRENADE_RADIUS | `{{ kits.soldier.data.SOLDIER_GRENADE_RADIUS }}` | The impact radius of a grenade. |
+| SOLDIER_GRENADE_COOLDOWN | `{{ kits.soldier.data.SOLDIER_GRENADE_COOLDOWN }}` | The cooldown, in ticks, of the Grenade ability. |
+| SOLDIER_GRENADE_DAMAGE | `{{ kits.soldier.data.SOLDIER_GRENADE_DAMAGE }}` | The base damage of the grenade. |
+| SOLDIER_GRENADE_KNOCKBACK_MULTIPLIER | `{{ kits.soldier.data.SOLDIER_GRENADE_KNOCKBACK_MULTIPLIER }}` | The knockback multiplier of Grenade ability. |
+| SOLDIER_GRENADE_SELF_DAMAGE_MULTIPLIER | `{{ kits.soldier.data.SOLDIER_GRENADE_SELF_DAMAGE_MULTIPLIER }}` | The self damage multiplier of a grenade when hitting the player. |
+| SOLDIER_SWORD_DAMAGE | `{{ kits.soldier.data.SOLDIER_SWORD_DAMAGE }}` | The base damage of the sword. |
+| SOLDIER_SWORD_SPEED | `{{ kits.soldier.data.SOLDIER_SWORD_SPEED }}` | The base speed of the sword. |

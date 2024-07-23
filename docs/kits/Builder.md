@@ -3,14 +3,14 @@
 
 ***
 
-#### ![builder-icon](../assets/kits/builder/builder-icon.jpg)
+#### ![builder-icon](../assets/icons/builder-icon.jpg)
 
 # Overview
 ***
 - **Introduced:** v1.7.0
 - **Description:** A utility kit that can place bricks and ladders around the map.
 - **Role:** Utility
-- **How to Unlock:** Unlocked by Default
+- **How to Unlock:** Unlocked by Default.
 
 <br />  
 
@@ -25,7 +25,7 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
@@ -82,7 +82,7 @@ Receive bricks and ladders from engineer dispensers.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.builder.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.builder.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | BUILDER_BRICKS_COUNT | `{{ kits.builder.data.BUILDER_BRICKS_COUNT }}` | The maximum number of bricks that the player can hold in a stack. |
 | BUILDER_BRICKS_FINAL_BLOW_REWARD | `{{ kits.builder.data.BUILDER_BRICKS_FINAL_BLOW_REWARD }}` | The number of bricks awarded for a final blow. |
 | BUILDER_BRICKS_ASSIST_REWARD | `{{ kits.builder.data.BUILDER_BRICKS_ASSIST_REWARD }}` | The number of bricks awarded or an assist. |

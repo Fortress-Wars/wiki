@@ -3,14 +3,14 @@
 
 ***
 
-#### ![brute-icon](../assets/kits/brute/brute-icon.jpg)
+#### ![brute-icon](../assets/icons/brute-icon.jpg)
 
 # Overview
 ***
 - **Introduced:** v1.7.0
 - **Description:** An aggressive kit with an axe.
 - **Role:** Damage
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 
@@ -25,13 +25,13 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
 #### **Axe Swirl**
 ## Axe Swirl
-Right click the iron axe to unleash an area of effect attack. This ability will damage all enemies in range. 
+Right click the iron axe to unleash an attack in a `{{ kits.brute.data.BRUTE_AXE_SWIRL_RADIUS }}` meter radius. This ability will deal `{{ kits.brute.data.BRUTE_AXE_SWIRL_DAMAGE }}` damage all enemies in range. If `BRUTE_AXE_SWIRL_IGNORE_I_FRAMES` is set to `true`, then the attack will ignore invulnerability frames.
 
 ![Axe Swirl 1](../assets/kits/brute/Brute%20-%20Axe%20Swirl%201.gif)
 
@@ -77,7 +77,7 @@ Additionally, dealing melee damage with the axe will instantly break shields.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.brute.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.brute.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | BRUTE_AXE_MELEE_DAMAGE | `{{ kits.brute.data.BRUTE_AXE_MELEE_DAMAGE }}` | The base melee damage of the axe. |
 | BRUTE_AXE_MELEE_SPEED | `{{ kits.brute.data.BRUTE_AXE_MELEE_SPEED }}` | The base melee speed of the axe. |
 | BRUTE_BERSERK_ACTIVATION_THRESHOLD | `{{ kits.brute.data.BRUTE_BERSERK_ACTIVATION_THRESHOLD }}` | The threshold at which the Berserk ability will trigger. (1hp = 0.5 hearts) |

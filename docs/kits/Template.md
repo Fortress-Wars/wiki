@@ -3,7 +3,7 @@
 
 ***
 
-#### ![_kit_icon](../assets/kits/_kit_/_kit_-icon.jpg)
+#### ![_kit_-icon](../assets/icons/_kit_-icon.jpg)
 
 # Overview
 ***
@@ -24,7 +24,7 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
@@ -58,6 +58,23 @@ _description_2_
 
 <!-- tabs:end -->
 
+### Resources
+<!-- tabs:start -->
+#### **Resource_1**
+## Resource_1
+_description_1_
+
+![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
+
+#### **Resource_2**
+## Resource_2
+_description_2_
+
+![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
+
+<!-- tabs:end -->
+<br />
+
 # Achievements
 ***
 
@@ -72,7 +89,7 @@ _description_2_
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits._kit_.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits._kit_.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | | `{{ kits._kit_.data. }}` | |
 | | `{{ kits._kit_.data. }}` | |
 | | `{{ kits._kit_.data. }}` | |

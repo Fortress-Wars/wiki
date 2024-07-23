@@ -3,14 +3,14 @@
 
 ***
 
-#### ![bomber-icon](../assets/kits/bomber/bomber-icon.jpg)
+#### ![bomber-icon](../assets/icons/bomber-icon.jpg)
 
 # Overview
 ***
 - **Introduced:** v1.7.0
 - **Description:** A damage kit that places and detonates bombs.
 - **Role:** Damage
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 
@@ -26,7 +26,7 @@
 
 <br />  
 
-## Abilities
+# Abilities
 ***
 ### Actives
 <!-- tabs:start -->
@@ -38,7 +38,7 @@ Bombs are used to deal large area damage. Bombs can't be placed too close to oth
 
 #### **Detonator**
 ## Detonator
-Right click to detonate all of the player's bombs dealing damage to enemies and self. Bombs will ignore invulnerability frames. The player can also detonate bombs while respawning.
+Right click to detonate all of the player's bombs dealing `{{ kits.bomber.data.BOMBER_BOMB_DAMAGE }}` damage to enemies. Bombs will deal `{{ kits.bomber.data.BOMBER_BOMB_SELF_DAMAGE_MULTIPLIER }}` self damage to the player. Bombs will ignore invulnerability frames. The player can also detonate bombs while respawning.
 
 ![Detonator 1](../assets/kits/bomber/Bomber%20-%20Detonate.gif)
 
@@ -74,7 +74,7 @@ Bombs will disable shields if the bomb hits a player that is blocking.
 
 | Property | Value | Description |
 |----------|-------|-------------|
-| MAX_HEALING_POTIONS | `{{ kits.bomber.data.MAX_HEALING_POTIONS }}` | Maximum number of healing potions the player can carry. |
+| MAX_HEALING_POTIONS | `{{ kits.bomber.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | BOMBER_SWORD_DAMAGE | `{{ kits.bomber.data.BOMBER_SWORD_DAMAGE }}` | The base damage of the sword. |
 | BOMBER_SWORD_SPEED | `{{ kits.bomber.data.BOMBER_SWORD_SPEED }}` | The base speed of the sword. |
 | BOMBER_BOMB_PLACE_ICD | `{{ kits.bomber.data.BOMBER_BOMB_PLACE_ICD }}` | The internal cooldown, in ticks, for placing bombs. |

@@ -3,14 +3,14 @@
 
 ***
 
-#### ![slime-icon](../assets/kits/slime/slime-icon.jpg)
+#### ![slime-icon](../assets/icons/slime-icon.jpg)
 
 # Overview
 ***
 - **Introduced:** v1.8.0
 - **Description:** A tank kit that summons slimes and provides fall and anvil damage immunity to allies.
 - **Role:** Tank
-- **How to Unlock:** Purchase for 500 Credits
+- **How to Unlock:** Purchase for 500 Credits.
 
 <br />  
 
