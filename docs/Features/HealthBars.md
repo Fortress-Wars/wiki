@@ -33,46 +33,28 @@ The health bar will change color depending on the status effect that the player 
 ## Burning
 If the player is on fire, the health bar will turn orange.
 
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
+![Health Bars - Burning 1](../assets/features/healthbars/Health%20Bars%20-%20Burning%202.png)
 
 #### **Freezing**
 ## Freezing
 If the player is freezing, the health bar will turn light blue.
 
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
+![Health Bars - Freezing 1](../assets/features/healthbars/Health%20Bars%20-%20Freezing%202.png)
 
 #### **Poison**
 ## Poison
 If the player has the poison effect, the health bar will turn dark green.
 
-![_image_1_](../assets/kits/_kit_/_image_1_.jpg_)
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
+![Health Bars - Poison 1](../assets/features/healthbars/Health%20Bars%20-%20Poison%202.png)
 
 #### **Wither**
 ## Wither
 If the player has the wither effect, the health bar will turn black.
 
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
+![Health Bars - Wither 1](../assets/features/healthbars/Health%20Bars%20-%20Wither%202.png)
 <!-- tabs:end -->
 
 <br /> 
-
-### Gameplay
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
-
-![_image_2_](../assets/kits/_kit_/_image_2_.jpg_)
 
 <br /> 
 
@@ -86,3 +68,5 @@ settings:
 ```
 
 ### Changelog
+
+- 2.0.0 - First Introduced
