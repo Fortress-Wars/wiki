@@ -83,7 +83,7 @@ While `Fortify` is active and the player is blocking, when enemies are within `{
 | MAX_HEALING_POTIONS | `{{ kits.knight.data.MAX_HEALING_POTIONS }}` | {{ kitDataSharedDescriptions.MAX_HEALING_POTIONS }} |
 | KNIGHT_SWORD_DAMAGE | `{{ kits.knight.data.KNIGHT_SWORD_DAMAGE }}` | The base damage of the sword. |
 | KNIGHT_SWORD_SPEED | `{{ kits.knight.data.KNIGHT_SWORD_SPEED }}` | The base speed of the sword. |
-| KNIGHT_FORTIFY_SHIELD_DAMAGE_PERCENTAGE | `{{ kits.knight.data.KNIGHT_FORTIFY_SHIELD_DAMAGE_PERCENTAGE }}` | The percentage of incoming damage that will shield will take during the Fortify ability. |
+| KNIGHT_FORTIFY_SHIELD_DAMAGE_PERCENTAGE | `{{ kits.knight.data.KNIGHT_FORTIFY_SHIELD_DAMAGE_PERCENTAGE }}` | The percentage of incoming damage that the shield will take during the Fortify ability. |
 | KNIGHT_ROYAL_GUARD_REDIRECTED_DAMAGE_PERCENTAGE | `{{ kits.knight.data.KNIGHT_ROYAL_GUARD_REDIRECTED_DAMAGE_PERCENTAGE }}` | The percentage of damage from allies that will be redirected to the player when the Royal Guard ability is trigged. |
 | KNIGHT_DAMAGE_DEFLECTION_PERCENTAGE | `{{ kits.knight.data.KNIGHT_DAMAGE_DEFLECTION_PERCENTAGE }}` | The percentage of damage during Fortify that is deflected to enemies that attack the player's shield. |
 | KNIGHT_FORTIFY_COOLDOWN | `{{ kits.knight.data.KNIGHT_FORTIFY_COOLDOWN }}` | The cooldown, in ticks, of the Fortify ability. |
