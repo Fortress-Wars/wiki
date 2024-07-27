@@ -286,7 +286,7 @@
         "MAX_HEALING_POTIONS": 7,
         "HITMAN_SWORD_DAMAGE": 5,
         "HITMAN_SWORD_SPEED": 4,
-        "HITMAN_BOW_DAMAGE": 5,
+        "HITMAN_BOW_MAX_DAMAGE": 5,
         "HITMAN_MAX_TAG_TRIGGERS": 2,
         "HITMAN_MAX_TAGS": 6,
         "HITMAN_GLOWING_DURATION": 300,
@@ -336,7 +336,7 @@
     "jumper": {
       "data": {
         "MAX_HEALING_POTIONS": 7,
-        "JUMPER_SWORD_DAMAGE": 4,
+        "JUMPER_SWORD_DAMAGE": 7,
         "JUMPER_SWORD_SPEED": 4,
         "JUMPER_TRANSLOCATOR_PICKUP_DELAY": 20,
         "JUMPER_TRANSLOCATOR_THROW_MULTIPLIER": 1.5,
