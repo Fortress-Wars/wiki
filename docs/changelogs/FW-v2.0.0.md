@@ -35,8 +35,8 @@ Brute
 - Axe swirl ability now considers line of sight when damaging enemies.
 
 Buff Master
-- Speed effect duration increased to **320** ticks from **160** ticks
-- Max cooldown for buff ability is now **300** ticks
+- Speed effect duration increased from **160** ticks to **320** ticks.
+- Max cooldown for buff ability is now **300** ticks.
 
 Builder
 - Increased bricks and ladders final blow and assist reward counts.
@@ -52,44 +52,44 @@ Demolitionist
 Engineer
 - Added sentry fire sound
 - Updated repair sound
-- Pickup block metal refund is now based on the the percentage of current hp
-- Metal reward for a final blow and assist ("Metal Scrapper") are now **50** metal (was **75** and **25** respectively)
-- Damage to engineer blocks (from abilities) now scale off of the **base** damage they would do to an enemy
-- Dispenser refreshes cooldowns by **10%** per dispense
-- Sentry now shoots from the center of the block. This means it can shoot an enemy from any direction
-- Dispenser no longer dispenses mana potions for Kit Priest and Kit Aquarius
+- Pickup block metal refund is now based on the the percentage of current hp.
+- Metal reward for a final blow and assist ("Metal Scrapper") are now **50** metal (was **75** and **25** respectively).
+- Damage to engineer blocks (from abilities) now scale off of the **base** damage they would do to an enemy.
+- Dispenser refreshes cooldowns by **20%** per dispense.
+- Sentry now shoots from the center of the block. This means it can shoot an enemy from any direction.
+- Dispenser no longer dispenses mana potions for Kit Priest and Kit Aquarius.
 
 Fish
-- Tropical Fish now heals only after hitting a target with it
-- Fishplosion and Fish Bow now summon tropical fish
-- OP fish now keeps the fish ability
-- Fish throw is now faster in OP fish mode
+- Tropical Fish now heals only after hitting a target with it.
+- Fishplosion and Fish Bow now summon tropical fish.
+- OP fish now keeps the fish ability.
+- Fish throw is now faster in OP fish mode.
 
 Hitman:
-- Bow now has infinity, but the max tags a hitman can have at once is still 6
-- Replaced chainmail leggings with black leather leggings
-- Replaced chainmail boots with black leather boots
-- Bow damage is now set to **5**
-- Decreased weakness effect duration from **200** ticks to **150** ticks
-- Decreased glowing effect duration from **400** ticks to **300** ticks
-- Decreased darkness effect duration from **400** ticks to **300** ticks
-- Harming effect damage is now set to **4**
-- Harming effect ignores no damage ticks
+- Bow now has infinity, but the max tags a hitman can have at once is still 6.
+- Replaced chainmail leggings with black leather leggings.
+- Replaced chainmail boots with black leather boots.
+- Bow damage is now set to **5**.
+- Decreased weakness effect duration from **200** ticks to **150** ticks.
+- Decreased glowing effect duration from **400** ticks to **300** ticks.
+- Decreased darkness effect duration from **400** ticks to **300** ticks.
+- Harming effect damage is now set to **4**.
+- Harming effect ignores no damage ticks.
 
 Illusionist
 - Divination Star damage bonus multiplier now only triggers when the owner of the Divination Star is the source of the damage.
 - If the player attacks an enemy to uncloak from fake death, they will also hack them for **60** ticks.
 
 Jumper
-- Added ability to destroy the translocator manually with **left click**
+- Added ability to destroy the translocator manually with **left click**.
 - Cooldown for scenario above is **80** ticks.
-- Reduced cooldown of translocator after picking it up off the ground from **300** ticks to **40** ticks
-- Life duration of translocator increased from **6000** ticks to **24000** ticks
+- Reduced cooldown of translocator after picking it up off the ground from **300** ticks to **40** ticks.
+- Life duration of translocator increased from **6000** ticks to **24000** ticks.
 
 Kangaroo
 - Stomp ability now considers line of sight when damaging enemies.
-- Increased stomp cooldown from **180** ticks to **210** ticks
-- Decreased stomp impact radius from **5** meters to **3** meters
+- Increased stomp cooldown from **180** ticks to **210** ticks.
+- Decreased stomp impact radius from **5** meters to **3** meters.
 
 Knight
 - Removed Pull ability
@@ -107,13 +107,16 @@ Mathematician:
 Medic
 - Healing rate decreased from **5** ticks to **2** ticks.
 - Healing Stone Capacity resource renamed to Electrolytes and is now displayed on the player's action bar.
-- Medic's potions are now visually different than normal healing potions
+- Medic's potions are now visually different than normal healing potions.
 
 Mercy
 - Mercy staff no longer casts a fishing line, instead it is now particle based.
 - Players can target themselves by sneaking.
-- Staff beam will now disconnects if out of line of sight for too long
-- Removed left-click to attach beam
+- Staff beam will now disconnects if out of line of sight for too long.
+- Removed left-click to attach beam.
+
+Miner
+- Decreased Miner's Fervor ability cooldown from **400** ticks to **200** ticks
 
 Soldier
 - Grenade radius increased from **2** to **3** 
