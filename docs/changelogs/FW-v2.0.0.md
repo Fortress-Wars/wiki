@@ -10,11 +10,7 @@ _Release Date: TBD_
 - Bug Fixes
 
 ### Health Bars
-Health bars show appear above ally player models. They show the player's Kit, Name, Health Bar, Numberic Health Value, and number of potions. Absorption and other status effects will also be reflected in the health bar. Enemies only see the player's name and nothing else!
-
-### NEW_FEATURE_2
-
-### NEW_FEATURE_3
+Health bars appear above ally player models. They show the player's Kit, Name, Health Bar, Numeric Health Value, and number of potions. Absorption and other status effects will also be reflected in the health bar. Enemies only see the player's name and nothing else!
 
 ### Kit Changes
 
@@ -46,13 +42,13 @@ Crusher
 - Getting hit by an anvil will stun targets for **60** ticks.
 
 Demolitionist
-- Demolition Radius is explodes all blocks in the radius instead of using Minecraft's tnt block logic.
+- Demolition Bombs explode all blocks in the radius instead of using Minecraft's TNT block logic.
 - Bombs now consider line of sight when damaging enemies.
 
 Engineer
 - Added sentry fire sound
 - Updated repair sound
-- Pickup block metal refund is now based on the the percentage of current hp.
+- Pickup block metal refund is now based on the percentage of current hp.
 - Metal reward for a final blow and assist ("Metal Scrapper") are now **50** metal (was **75** and **25** respectively).
 - Damage to engineer blocks (from abilities) now scale off of the **base** damage they would do to an enemy.
 - Dispenser refreshes cooldowns by **20%** per dispense.
@@ -95,7 +91,7 @@ Knight
 - Removed Pull ability
 - New Fortify Ability: Increases shield strength, refreshes shield durability, and converts all damage types that would normally break or ignore the shield to damage the shield.
 - Royal guard is now effective for all allies and only triggers when fortify is active and when the player is blocking.
-- Damage Deflect from the shield is only active during the fortify duration.
+- "Damage Deflect" ability is now only active during Fortify's duration.
 
 Mathematician:
 - Changed wooden sword to stone sword.
@@ -107,16 +103,24 @@ Mathematician:
 Medic
 - Healing rate decreased from **5** ticks to **2** ticks.
 - Healing Stone Capacity resource renamed to Electrolytes and is now displayed on the player's action bar.
-- Medic's potions are now visually different than normal healing potions.
+- Medic's potions are now visually different from normal healing potions.
 
 Mercy
 - Mercy staff no longer casts a fishing line, instead it is now particle based.
 - Players can target themselves by sneaking.
-- Staff beam will now disconnects if out of line of sight for too long.
-- Removed left-click to attach beam.
+- Staff beam will now disconnect if out of line of sight for too long.
+- Removed left-click to attach the beam.
 
 Miner
 - Decreased Miner's Fervor ability cooldown from **400** ticks to **200** ticks
+
+Musketeer
+- Added a a second "Burst Mode" firing mode for the rifle.
+- Burst mode shoots **3** shots quickly that will ignore no damage ticks.
+- Burst mode bullets have a travel distance unlike "Sniper Mode" bullets.
+- Added damage falloff: Starts at **75** meters for "Sniper Mode" and **5** meters for "Burst Mode".
+- Bullets will no longer apply glowing when hitting an enemy.
+- "Sniper Mode" bullets now pierce up to **2** times
 
 Soldier
 - Grenade radius increased from **2** to **3** 

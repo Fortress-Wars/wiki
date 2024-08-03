@@ -22,7 +22,7 @@
 - Stone Sword
 - Dart Shooter
 - Select Potion
-- 7 Healing Potions
+- {{ kits.hitman.data.MAX_HEALING_POTIONS }} Healing Potions
 
 <br />  
 

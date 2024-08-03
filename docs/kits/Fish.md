@@ -21,7 +21,7 @@
 - Chainmail Boots
 - Fish
 - Fish Bow
-- `{{ kits.fish.data.MAX_HEALING_POTIONS }}` Healing Potions
+- {{ kits.fish.data.MAX_HEALING_POTIONS }} Healing Potions
 
 # Abilities
 ***
