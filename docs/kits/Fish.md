@@ -23,6 +23,8 @@
 - Fish Bow
 - {{ kits.fish.data.MAX_HEALING_POTIONS }} Healing Potions
 
+<br />  
+
 # Abilities
 ***
 ### Actives

@@ -122,6 +122,22 @@ Musketeer
 - Bullets will no longer apply glowing when hitting an enemy.
 - "Sniper Mode" bullets now pierce up to **2** times
 
+Necromancer
+- Changed to a tank kit.
+- Now has a shield.
+- Changed iron sword to stone sword.
+- Essence of the Afterlife can no longer be destroyed by explosions.
+- Max Essence of the afterlife reduced from **30** to **15**.
+- Max number of skeletons reduced from **3** to **1**.
+- Essnece to spawn a skeleton reduced from **3** to **1**.
+- Skeleton can now be upgraded by right-clicking them. There are **5** levels: Level 1: 20 health, 11 armor points, stone sword, and extra speed. Level 2: full chain armor (3 additional armor points; 14 total). Level 3: 20 addition health (40 total). Level 4: full iron armor (6 additional armor poitns, 20 total). Level 5: 75% knockback resistance.
+- Cost to upgrade skeleton is **1** essence per level.
+- Right clicking the player's skeleton will restore **10** health. This will consume **1** essence.
+- Skeleton can not be picked up by right clicking it while sneaking. This will remember its current health and level.
+- The spawn skeleton item and shield will become enchanted to indicate that a skeleton is being held.
+- Essence now drops for every entity death (was previously only player deaths caused by another player).
+- 
+
 Soldier
 - Grenade radius increased from **2** to **3** 
 - Grenades now consider line of sight when damaging enemies.
@@ -135,6 +151,7 @@ Soldier
 - Added Line of sight checks for explosions and other AOE abilities.
 - Refactor healing and mana potions. (Auto-pot no triggers in the same game tick (faster))
 - Absorption hearts now count towards "Damage Dealt" stats and "Damage Taken" stats.
+- Shield block delay decreased from **5** ticks to **0** ticks.
 
 ## Other Changes
 -
